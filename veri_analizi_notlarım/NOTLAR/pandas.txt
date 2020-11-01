@@ -1,0 +1,75 @@
+﻿						-------------------------------- PANDAS -------------------------------------
+
+									<-- SERİLER -->
+
+pd.Series(liste)				# seriler indexli haldedirler ,listeyi seriye dönüştür..
+pd.Series(data=,index=)				# data ve index parametleri istedigimizi liste verisini verebiliriz..
+liste.sum()					# seri listesindeki sayilarin toplamını verir.
+liste.max()					# max deger
+liste.min()					# min deger
+liste.product					# tüm değerleri çarpıyor..
+liste.mean()					# ortalamayi bulur
+pd.read_csv("ülke.csv",squeeze=True) 		# squeeze parametresi ile seri haline çevriliyor  
+liste.sort_values()				# harfleri alfabeye göre sıralar,numara olursa küçükten büyüge dogru sıralar.. ,ascending=True parametresi normalde ama False yapılırsa büyükten kücüge dogru sıralar ,inplace =False parametresi işlemi True olursa kaydeder..
+
+
+liste.sort_index()				# index sıralaması yapar 
+liste.value_counts()				# her degerin kaç tane oldugunu verir 	,liste series olmalı
+seri.idxmax()					# en büyük değerin indexini verir
+seri.idxmin()					# en kücük değerin indexini verir
+seri.apply(fonksiyon)				# fonksiyon gönderilerek apply value değerlerine yüksek veya çok yüksek gibi yapabiliriz... 
+seri.apply(lambda seri:seri/10)			# seri değerlerini 10 a bölen bir fonksiyonu appyly ile uygulandı
+
+									   <-- DATAFRAME -->		
+
+pd.read_csv("awd.csv",index_col="")					# read_csv dosya okur index_col= parametresi ile index degerini değistirilebilir...
+data[["sütun"]]								# sütundan bir tanesini almak için çift köşeli parantez kullanılır..
+data["yeni sütun"] = 0							# yeni sütün sütünu ekliyor degeri sıfırlardan olusur...
+
+data.insert(sıranumarası,column="yeni_sütun_ismi",value=değeri)		# insert ile diger sütunların arasına yeni sütun ekler..
+nüfus.dropna(how="any")							# how="any" parametresi tüm nan degerlerini siler
+nüfus.dropna(subset=["sütunismi"])					# subset parametresi ile bir sütündaki degerlerde nan varsa onu silebilir
+nüfus.fillna(1)								# tüm nan degerlerini 1 yapar baska bir degerde girilebilir
+nüfus[""].fillna()							# bu sekilde istenilen sütun üzerinde nan degerleri gegistirilebilir...
+nüfus[""].astype()							# astype metodu ile sütundaki bir degerin tipini degistireblir
+dataframe.sort_values("")						# belirtilen sütunda sıralama yapar...	daha fazla sütün ismi girilirse liste halinde verilir..			
+df[""].isin("")								# sütun içinde arama, isin() ile belirtilen kelime df[""] içinde varmı yok mu sorgusu yapar		
+df[""].isnull()								# nan sorgusu yapar true,false degerleri döndürür...
+df[""].notnull()							# sütunda nan olmayanları true,false degerinde döndürür... değişkene atılıp df[değişken] şeklinde kullanılabilir...
+df[""].between(20,25)							# between ile 2 değer arasındaki değerleri çeker..
+df.set_index("sütunismi")						# sütünlardan birini yeni index yapar ,kalıcı hale getirmek için inplace parametresi kullanılabilir..
+df.reset_index(inplace=True)						# indexi eski haline döndürür ve kaydeder
+df.rename(column={})							# rename ile columns isimlerini değiştirebilirsiz parametre olarak columns a sözlük gönderilir.. index içinde yapılabilir..
+df.drop(["maas"],axis=1,inplace=True)					# drop işlemi ile maas kısmını siliyoruz axis =1 demek sütun, 0 olursa satır ,inplace =True ile kaydeder 
+df.drop(labels=[])							# labels parametresi ilede columnlar silinebilir 
+df.pop()								# pop ilede column silinebilir...
+df.sample(5,axis=0)							# ilk 5 satiri verir axis 1 olursa ilk 5 column ları verir.. 
+df.nsmallest(5,columns="")						# en kücük 5 tane columnsları verir...
+df.nlargest(5,columns="")						# en büyük 5 tane columns degerleri verir..
+df.query("görev == 'kaleci'")						# görev column dan kalecileri verir..
+pd.concat()								# ile 2 dataframe birleştirme işlemi yapıyor
+
+df.pivot_table(index="",columns="",values="")				# yeni bir tablo olusturur...
+
+
+
+dataframe.columns							# dersek başlıkları verir 
+dataframe.head()							# dataframe içerisinde ilk 5i gösterir deger verilirse daha fazlasını
+dataframe.tail()							# buda sondan ilk 5i verir deger verilirse daha fazlasını
+dataframe.info()							# dataframe ile ilgili bazı bilgiler verir
+dataframe.describe()							# bu dataframe ile ilgili bazı hesaplamaları verir ortalama,min,max gibi ,string olmayan numerik degerler verir.
+dataframe.dtypes							# sadece tiplerini verir
+dataframe.loc[satır:sütun]						# stringlerde dilimleme işlemi yapar gibi loc[] ile istedigimiz satır ve sütunları alabiliriz..
+dataframe.iloc[]							# loc ta index kısmında hangi tip veri varsa string veya int ile alıp iloc ta index numarası ile alırız...
+dataframe["MAAŞ"]							# dersek maaşı verir 
+dataFrame.MAAŞ 								# dersek yine maaşı verir..
+dataFrame.MAAŞ.mean()							# mean ile maaşların ortalamasını verir.
+np.mean(dataFrame.MAAŞ)							# numpy kütüphanesındekı mean ile de ortalama alınabılır..
+
+
+
+
+axis=0 veya 1 degeri verilirse						# vertical veya horizantıl işlemi yapar
+dataFrame.Species.unique()						#species dataframe içindeki bir columns unique ile kaç tür varsa onu verir...
+
+

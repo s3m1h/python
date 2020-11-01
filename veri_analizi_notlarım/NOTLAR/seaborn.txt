@@ -1,0 +1,137 @@
+﻿							--------------- SeaBorn kütüphanesi -------------------------
+
+
+
+DİSTPLOT;
+
+	
+
+sns.distplot(df[""],bins=  ,kde= ,kde_kws={"shade":True},hist=True)		# dağılım grafiği çizer ,kde grafik üzerindeki çizgi normalde True ,kaldırmak için False olması lazım
+																		
+										kde_kws{"shade":True}, parametresi çizginin içini doldurur..
+
+sns.set(style="",palette="",font_scale=1,)  					 # grafiğin arka planının değiştirir. parametreler sırayla arkaplan,renk(pastel,deep,muted),font boyutu
+
+bu 
+
+distplot grafiklerini:
+	
+			
+f,ax = plt.subplots(1,1,figsize=(10,10))   şeklinde subplot olusturup yan yana bire bir 2 tane grafik çizer içini distplot ile doldurup kullanabiliriz
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+JOİNPLOT;
+
+
+
+sns.jointplot(x,y,data=veri)				# bu şekilde scatter plot benzeri 2 şeyi karşılaştırmak için x ve y yazılıp data kısmıda veri işte
+
+							ve parametreleri var kind="hex,reg,kde" grafik tipini değiştirir.,size=10 grafik boyutunu değiştirme..
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+KDEPLOT;
+
+
+
+sns.kdeplot(df[""])				# şeklinde grafiği çizer ,2 tür karşılaştırılabilir, joinplot gibi 2 sütun için x,y girilmesi gerekir..
+								
+						renk değiştirmek için cmap="Reds" parametresi verilmesi gerekir.. shade=True değeri kullanılabilir 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+PAİRPLOT;
+
+
+
+sns.pairplot(df) 				# şeklinde kullanılabilir.. parametre verilebilir ...
+	
+						hue = "sütun ismi" parametresi kullanılabilir.. palette="inferno" parametresi kullanılabilir...
+
+
+sns.rugplot(df[""])				# buda başka bir grafik
+ 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+BOXPLOT;
+
+
+
+
+sns.boxplot(x,y,data=df)		# x,y ve data girilmesi gerekir... sadece data da olabilir.. palette ile tema değiştirilebilir...
+	
+					# width=1 parametresi baxplot ların genişliğini degiştirir..
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+VİOLİNPLOT;
+
+
+
+sns.violinplot(x,y,data=df)		# şeklinde çizdirilebilir...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+BARPLOT;
+
+
+
+
+sns.barplot(x,y,data=df)		# şeklinder çizdirilir.. yine parametreler verilebilir..
+sns.despine()					
+					# parametrelerinde grafik çerçvelerini falan kaldırabilir.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+PALETLER --> inferno , RdBu_r ,Set3,BuGn_d,Set2,Set1
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+COUNTPLOT;
+
+
+
+sns.countplot(x,data)			# şeklinde çizdirilebilir..
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+STRİPPLOT;
+
+
+
+
+sns.stripplot(x,y,data)			# şeklinde çizdirilebilir..
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+HEATMAP;
+
+
+
+sns.heatmap(data)			# data verilmeli(pivot_table), diger parametreler çizdirmek için şart degil
+							
+					annot = True ,parametresi kutuların içine sayilari yerleştirir..
+							
+					cmap ="Greens" ile rengi değiştirilebilir...
+
+sns.clustermap(data)			# heatmapin hemenhemen aynısı
+
+
+
+
+
+
+
+
+
+
