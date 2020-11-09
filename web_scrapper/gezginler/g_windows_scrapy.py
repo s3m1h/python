@@ -4,21 +4,21 @@ import requests
 from gezginler_urls import URL
 from util import json_save
 
-def windows_kategorisi():
-    url = "https://www.gezginler.net/indir/"
-    req = requests.get(url, timeout=5).content
-    so = soup(req, 'html.parser')
-    kategori = so.find('div',{'id':'kategoriler'})
-    liste = []
-    for baslik in kategori.find_all('h4'):
-        liste.append(baslik.text.replace(' & ','-').replace(' - ','-').replace('ü','u').replace('ğ','g').replace('ç','c').lower())
-    print(liste)
+# def windows_kategorisi():
+    # url = "https://www.gezginler.net/indir/"
+    # req = requests.get(url, timeout=5).content
+    # so = soup(req, 'html.parser')
+    # kategori = so.find('div',{'id':'kategoriler'})
+    # liste = []
+    # for baslik in kategori.find_all('h4'):
+        # liste.append(baslik.text.replace(' & ','-').replace(' - ','-').replace('ü','u').replace('ğ','g').replace('ç','c').lower())
+    # print(liste)
 
-    for i in kategori.find_all('li'):
-        link = i.a.get('href')
-        alt_kategori = i.a.text.strip().replace(" - ","-").replace(" / ","-").replace(" ","").replace('ü','u').replace('ğ','g').replace('ç','c').lower()
-        dic[f'{j}'] = {alt_kategori:link}
-        print(alt_kategori," ",link)
+    # for i in kategori.find_all('li'):
+        # link = i.a.get('href')
+        # alt_kategori = i.a.text.strip().replace(" - ","-").replace(" / ","-").replace(" ","").replace('ü','u').replace('ğ','g').replace('ç','c').lower()
+        # dic[f'{j}'] = {alt_kategori:link}
+        # print(alt_kategori," ",link)
 
 def scrapy(kategory, key):
     a = 1
