@@ -2,27 +2,29 @@ from bs4 import BeautifulSoup as soup
 import requests, zipfile, io
 import urllib3
 #import re
-import json
+
+
 #
 from gezginler_urls import URL
+from util import json_save
 # s_len = sayfalama.find_all('a')[-2].text
 # sayfalama = so.find('div',{'id':'sayfalama'})
 
-# def windows_kategorisi(self):
-#     url = "https://www.gezginler.net/indir/"
-#     req = requests.get(url, timeout=5).content
-#     so = soup(req, 'html.parser')
-#     kategori = so.find('div',{'id':'kategoriler'})
-#     liste = []
-#     for baslik in kategori.find_all('h4'):
-#         liste.append(baslik.text.replace(' & ','-').replace(' - ','-').replace('ü','u').replace('ğ','g').replace('ç','c').lower())
-#     print(liste)
+def windows_kategorisi():
+    url = "https://www.gezginler.net/indir/"
+    req = requests.get(url, timeout=5).content
+    so = soup(req, 'html.parser')
+    kategori = so.find('div',{'id':'kategoriler'})
+    liste = []
+    for baslik in kategori.find_all('h4'):
+        liste.append(baslik.text.replace(' & ','-').replace(' - ','-').replace('ü','u').replace('ğ','g').replace('ç','c').lower())
+    print(liste)
 
-#     for i in kategori.find_all('li'):
-#         link = i.a.get('href')
-#         alt_kategori = i.a.text.strip().replace(" - ","-").replace(" / ","-").replace(" ","").replace('ü','u').replace('ğ','g').replace('ç','c').lower()
-#         dic[f'{j}'] = {alt_kategori:link}
-#         print(alt_kategori," ",link)
+    for i in kategori.find_all('li'):
+        link = i.a.get('href')
+        alt_kategori = i.a.text.strip().replace(" - ","-").replace(" / ","-").replace(" ","").replace('ü','u').replace('ğ','g').replace('ç','c').lower()
+        dic[f'{j}'] = {alt_kategori:link}
+        print(alt_kategori," ",link)
 
 def scrapy(kategory, key):
     a = 1
@@ -75,6 +77,7 @@ def scrapy(kategory, key):
                     start = False
     return links
 def app_view_scrapy(name1, name2):
+    items = {}
     for link in scrapy(name1, name2):
         url = requests.get(link)
         bs = soup(url.content, 'html.parser')
@@ -89,49 +92,35 @@ def app_view_scrapy(name1, name2):
         rating_star = rating_info.span.text
         rating_oy = rating_info.find('span', {'itemprop': 'ratingCount'})
         data = {
-            baslik_name: {
+                #'virus_scan':app_information[7]('span').text, 
+                'system':app_information[6]('span')[-1].text,
+                'update':app_information[5]('span')[0].text,
+                'interface': app_information[4]('span')[0].text.strip().replace('\n','').replace('İ','i').replace('ç','c').replace('I','i').replace('ü','u'),
+                'person':app_information[3]('span')[0].text.strip().replace('\n','').replace('ç','c'),
+                'size':app_information[2].text[6:].strip().replace('\n',''),
+                'license' : app_information[0]('span')[0].text.strip().lower().replace('\n','').replace('Ü','u').replace('ç','c').replace('ü','u'),
+                'publisher' : app_information[1]('span')[0].text.lower(),
                 'rating_star': rating_star,
-                'rating_oy': [rating_oy.text if rating_oy is not None else '0'][0],
+                'rating': [rating_oy.text if rating_oy is not None else '0'][0],
                 'img_link': [img_link['src'] if img_link is not None else None][0],
                 'download_link': [download.get('onclick')[11:-13] if download is not None else None][0],
-            }
         }
-        def txt_save():
-            with open("data.txt", "+a") as write_file:
-                write_file.write(baslik_name + " " + img_link['src'] +'\n')
-        ###
-        def json_save():
-            with open("data_file3.json", "+a") as write_file:
-                json.dump(data, write_file)
-                write_file.write('\n')
-        ###
-        def app_download():
-            #url = "http://www.magicnotes.com/steelbytes/HD_Speed_ENG_Win32.zip"
-            url = download.get('onclick')[11:-13]
-            r = requests.get(url,stream=True)
-            if download is not None:
-                with open(baslik_name+".exe",'wb') as write_file:
-                    write_file.write(r.content)
-            else:
-                with open(baslik_name +".zip",'wb') as write_file:
-                    write_file.write(r.content)
-        
-        ######################       
-        # app_download()   
-        # json_save()
-        # txt_save()
-        #####################       
+        items[baslik_name] = data
+    # json_save(items,"diskaracları")
+    return items
 if __name__ == '__main__':
+    
+    
     #app_view_scrapy('araclar', 'diskaracları')
     # scrapy('araclar', 'dosyaaracları')
     # scrapy('araclar', 'dönuşturme-hesaplama')
-    #app_view_scrapy('araclar', 'kayıtdefteri')
-    #app_view_scrapy('araclar', 'optimizasyon')
-    app_view_scrapy('araclar', 'pdfaracları')
+    app_view_scrapy('araclar', 'optimizasyon')
+    
+    #app_view_scrapy('araclar', 'pdfaracları')
     # scrapy('araclar', 'pratikaraclar')
     # scrapy('araclar', 'sanaldisk-sistem')
     # scrapy('araclar', 'sistemaracları')
-    app_view_scrapy('araclar', 'sistembilgisi')
+    #app_view_scrapy('araclar', 'sistembilgisi')
     # scrapy('araclar', 'sistemgereksinimleri')
     #
     #
