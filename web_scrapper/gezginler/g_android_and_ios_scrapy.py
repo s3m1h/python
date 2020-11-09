@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as soup
 import time
 ###
 from util import json_save
-def android_kategorisi(key):
+def scrapy(key):
     url = "https://www.gezginler.net/android/" + key
     driver = webdriver.Chrome()
     driver.get(url)
@@ -29,13 +29,13 @@ def android_kategorisi(key):
             'link':href,
         }
         items[title] = data
-    json_save(items, "android_ios/eğitim")
+    json_save(items, "android-eğitim")
     
 if __name__=='__main__':
-    # araclar, egitim, eglence, ekonomi, fotograf, haberler, muzik, ...
-    android_kategorisi("egitim")
-    # android_kategorisi("araclar")
-    # android_kategorisi("fotograf")
-    # android_kategorisi("haberler")
-    # android_kategorisi("eglence")
-    # android_kategorisi("ekonomi")
+    # araclar, egitim, eglence, ekonomi, fotograf, haberler, muzik, oyunlar ...
+    scrapy("egitim")
+    # scrapy("araclar")
+    # scrapy("fotograf")
+    # scrapy("haberler")
+    # scrapy("eglence")
+    # scrapy("ekonomi")
