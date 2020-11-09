@@ -1,14 +1,8 @@
 from bs4 import BeautifulSoup as soup
-import requests, zipfile, io
-import urllib3
-#import re
-
-
+import requests
 #
 from gezginler_urls import URL
 from util import json_save
-# s_len = sayfalama.find_all('a')[-2].text
-# sayfalama = so.find('div',{'id':'sayfalama'})
 
 def windows_kategorisi():
     url = "https://www.gezginler.net/indir/"
@@ -106,7 +100,7 @@ def app_view_scrapy(name1, name2):
                 'download_link': [download.get('onclick')[11:-13] if download is not None else None][0],
         }
         items[baslik_name] = data
-    # json_save(items,"diskaracları")
+    json_save(items,"unix-linux")
     return items
 if __name__ == '__main__':
     
@@ -114,7 +108,7 @@ if __name__ == '__main__':
     #app_view_scrapy('araclar', 'diskaracları')
     # scrapy('araclar', 'dosyaaracları')
     # scrapy('araclar', 'dönuşturme-hesaplama')
-    app_view_scrapy('araclar', 'optimizasyon')
+    #app_view_scrapy('araclar', 'optimizasyon')
     
     #app_view_scrapy('araclar', 'pdfaracları')
     # scrapy('araclar', 'pratikaraclar')
@@ -126,7 +120,7 @@ if __name__ == '__main__':
     #
     #
     # diğer kategorisi
-    # gezginler_scrapy('diger', 'unix-linux')
+    app_view_scrapy('diger', 'unix-linux')
     #
 
     # ticari kategorisi
