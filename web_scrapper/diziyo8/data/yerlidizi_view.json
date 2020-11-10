@@ -1,0 +1,388 @@
+{
+    "50m2 (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/themes/dooplay/assets/img/no/dt_poster.png",
+        "date": "1. Sezon 12 Ara. 2020",
+        "rating": "7.5",
+        "rating_count": "8",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 12 Ara. 2020"
+            }
+        ]
+    },
+    "Atiye (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2019/12/63a3OvBps4RQXz10m0MG13CBbjx-185x278.jpg",
+        "date": "2. Sezon 10 Eyl. 2020",
+        "rating": "8.8",
+        "rating_count": "629",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 27 Ara. 2019"
+            },
+            {
+                "2.sezon": "2. Sezon 10 Eyl. 2020"
+            }
+        ]
+    },
+    "Babil (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/xZbRRDqXr360JSgMEsHdLNKQYZh-185x278.jpg",
+        "date": "1. Sezon 17 Oca. 2020",
+        "rating": "9.1",
+        "rating_count": "11",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 17 Oca. 2020"
+            }
+        ]
+    },
+    "Benim Tatlı Yalanım (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/4R2LCivtGtykt1ISA1aeB4ySsXU-185x278.jpg",
+        "date": "1. Sezon 13 Haz. 2019",
+        "rating": "5.6",
+        "rating_count": "5",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 13 Haz. 2019"
+            }
+        ]
+    },
+    "Börü (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/05/jSJy27yMybtzou7eiUZTa03zWFI-185x278.jpg",
+        "date": "1. Sezon 28 Şub. 2018",
+        "rating": "9.5",
+        "rating_count": "59",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 28 Şub. 2018"
+            }
+        ]
+    },
+    "Çarpışma (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/tWswseb6DclZsS66SN1UuOeYLd8-185x278.jpg",
+        "date": "1. Sezon 22 Kas. 2018",
+        "rating": "8.6",
+        "rating_count": "5",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 22 Kas. 2018"
+            }
+        ]
+    },
+    "Çocuk (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/9uiC8P3bKVzNqyTN6kJuozJvF5h-185x278.jpg",
+        "date": "1. Sezon 9 Eyl. 2019",
+        "rating": "7",
+        "rating_count": "2",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 9 Eyl. 2019"
+            }
+        ]
+    },
+    "Çukur (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2017/10/cukur-185x278.jpg",
+        "date": "3. Sezon 16 Eyl. 2019",
+        "rating": "8.2",
+        "rating_count": "69",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 22 Eki. 2017"
+            },
+            {
+                "2.sezon": "2. Sezon 17 Eyl. 2018"
+            },
+            {
+                "3.sezon": "3. Sezon 16 Eyl. 2019"
+            }
+        ]
+    },
+    "Doğduğun Ev Kaderindir (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/zbTViX9x5faggMbp1vclWyHDy1K-185x278.jpg",
+        "date": "1. Sezon 25 Ara. 2019",
+        "rating": "9",
+        "rating_count": "4",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 25 Ara. 2019"
+            }
+        ]
+    },
+    "Erkenci Kuş (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/q3W3WBoprwN4Nru8BQAOTlN0CIO-185x278.jpg",
+        "date": "1. Sezon 26 Haz. 2018",
+        "rating": "8.5",
+        "rating_count": "8",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 26 Haz. 2018"
+            }
+        ]
+    },
+    "Exatlon Türkiye": {
+        "poster": "https://www.diziyo8.net/wp-content/themes/dooplay/assets/img/no/dt_poster.png",
+        "date": "1. Sezon 3 Tem. 20201",
+        "rating": "9",
+        "rating_count": "211",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 3 Tem. 20201"
+            }
+        ]
+    },
+    "Ezel (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/fUnVJSQaW1JUBJAUycBAlntSQti-185x278.jpg",
+        "date": "2. Sezon 13 Eyl. 2010",
+        "rating": "9.7",
+        "rating_count": "18",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 28 Eyl. 2009"
+            },
+            {
+                "2.sezon": "2. Sezon 13 Eyl. 2010"
+            }
+        ]
+    },
+    "Güvercin (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/4Kn8bHj2fegODfII6RI15WSjreb-185x278.jpg",
+        "date": "1. Sezon 24 Kas. 2019",
+        "rating": "10",
+        "rating_count": "2",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 24 Kas. 2019"
+            }
+        ]
+    },
+    "Her Yerde Sen (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/jh9fivATUQUjErn7XVekl7giMYC-185x278.jpg",
+        "date": "1. Sezon 14 Haz. 2019",
+        "rating": "9.6",
+        "rating_count": "5",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 14 Haz. 2019"
+            }
+        ]
+    },
+    "Hercai (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/3M6He8bPSAt2JZY1JrGDoUJejBW-185x278.jpg",
+        "date": "2. Sezon 27 Eyl. 2019",
+        "rating": "10",
+        "rating_count": "3",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 15 Mar. 2019"
+            },
+            {
+                "2.sezon": "2. Sezon 27 Eyl. 2019"
+            }
+        ]
+    },
+    "Kardeş Çocukları (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/1ZZOuNvH3X5dlvw5aXxMtQqU0pb-185x278.jpg",
+        "date": "2. Sezon 17 Eyl. 2019",
+        "rating": "7.3",
+        "rating_count": "3",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 27 Oca. 2019"
+            },
+            {
+                "2.sezon": "2. Sezon 17 Eyl. 2019"
+            }
+        ]
+    },
+    "Kuruluş Osman (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/tu4BWsGFHcYDWulZwHxylA91vo0-185x278.jpg",
+        "date": "1. Sezon 20 Kas. 2019",
+        "rating": "8.9",
+        "rating_count": "22",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 20 Kas. 2019"
+            }
+        ]
+    },
+    "Kuzey Yıldızı: İlk Aşk (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/73JLpSWGWtrEJwkkVsQbnGIvkPo-185x278.jpg",
+        "date": "1. Sezon 14 Eyl. 2019",
+        "rating": "9.5",
+        "rating_count": "41",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 14 Eyl. 2019"
+            }
+        ]
+    },
+    "Kuzgun (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/1qANUhdf39TaoO8P7kEDr1Rh7Bc-185x278.jpg",
+        "date": "2. Sezon 19 Eyl. 2019",
+        "rating": "8.8",
+        "rating_count": "4",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 13 Şub. 2019"
+            },
+            {
+                "2.sezon": "2. Sezon 19 Eyl. 2019"
+            }
+        ]
+    },
+    "Leyla ile Mecnun (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/05/epQhFbDRSCh3xvivJz4QhRtM8VB-185x278.jpg",
+        "date": "3. Sezon 3 Eyl. 2012",
+        "rating": "8.8",
+        "rating_count": "23",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 9 Şub. 2011"
+            },
+            {
+                "2.sezon": "2. Sezon 8 Ağu. 2011"
+            },
+            {
+                "3.sezon": "3. Sezon 3 Eyl. 2012"
+            }
+        ]
+    },
+    "Love 101 (Aşk 101) (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/04/asd213ad23as1d0as65d4as0da12s6d0as23d1as0das645-185x278.jpg",
+        "date": "1. Sezon 24 Nis. 2020",
+        "rating": "9.1",
+        "rating_count": "3,634",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 24 Nis. 2020"
+            }
+        ]
+    },
+    "Mucize Doktor (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/ypfoiA298wMAOVPTkB73xJtKTG5-185x278.jpg",
+        "date": "1. Sezon 12 Eyl. 2019",
+        "rating": "9.6",
+        "rating_count": "29",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 12 Eyl. 2019"
+            }
+        ]
+    },
+    "October Faction": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/7yrXh19tH2ThJHXriORT16WKbBi-185x278.jpg",
+        "date": "1. Sezon 23 Oca. 2020",
+        "rating": "9.3",
+        "rating_count": "3",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 23 Oca. 2020"
+            }
+        ]
+    },
+    "Şampiyon (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/owfzusEvdSBbZFmrqWqLpUfHScj-185x278.jpg",
+        "date": "1. Sezon 12 Eyl. 2019",
+        "rating": "7.5",
+        "rating_count": "6",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 12 Eyl. 2019"
+            }
+        ]
+    },
+    "Sefirin Kızı (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/6Qg8uiHkbK26X6TAfrCRkb46c38-185x278.jpg",
+        "date": "1. Sezon 16 Ara. 2019",
+        "rating": "8.7",
+        "rating_count": "7",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 16 Ara. 2019"
+            }
+        ]
+    },
+    "Sevgili Geçmiş (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/Jwnsl1IH0G9D1GF1GK539hOvhn-185x278.jpg",
+        "date": "1. Sezon 25 Eki. 2019",
+        "rating": "1",
+        "rating_count": "1",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 25 Eki. 2019"
+            }
+        ]
+    },
+    "Söz (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2017/10/orUokYSO7obeN8T1AhgbMNHb4FB-185x278.jpg",
+        "date": "3. Sezon 17 Eyl. 2018",
+        "rating": "8.9",
+        "rating_count": "41",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 3 Nis. 2017"
+            },
+            {
+                "2.sezon": "2. Sezon 18 Eyl. 2017"
+            },
+            {
+                "3.sezon": "3. Sezon 17 Eyl. 2018"
+            }
+        ]
+    },
+    "Suskunlar (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/kJHeTAMn1JxVqrQzzuJrcYw5b1G-185x278.jpg",
+        "date": "2. Sezon 9 Haz. 2012",
+        "rating": "9.6",
+        "rating_count": "5",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 3 Oca. 2012"
+            },
+            {
+                "2.sezon": "2. Sezon 9 Haz. 2012"
+            }
+        ]
+    },
+    "The Protector (Hakan: Muhafız) (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2019/09/v50kb1Ets9FzFnZScddaB0lwHW9-185x278.jpg",
+        "date": "4. Sezon 9 Ağu. 2020",
+        "rating": "9.1",
+        "rating_count": "749",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 14 Ara. 2018"
+            },
+            {
+                "2.sezon": "2. Sezon 26 Nis. 2019"
+            },
+            {
+                "3.sezon": "3. Sezon 6 Mar. 2020"
+            },
+            {
+                "4.sezon": "4. Sezon 9 Ağu. 2020"
+            }
+        ]
+    },
+    "Tutunamayanlar (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/ayb5po3xpfW9FuKZrjNgFasipSe-185x278.jpg",
+        "date": "1. Sezon 7 Oca. 2020",
+        "rating": "9.6",
+        "rating_count": "8",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 7 Oca. 2020"
+            }
+        ]
+    },
+    "Zemheri (Yerli Dizi)": {
+        "poster": "https://www.diziyo8.net/wp-content/uploads/2020/01/6ZEx8hBvUtpPdczbQxN2uOAtNWI-185x278.jpg",
+        "date": "1. Sezon 15 Oca. 2020",
+        "rating": "7.7",
+        "rating_count": "3",
+        "seasons": [
+            {
+                "1.sezon": "1. Sezon 15 Oca. 2020"
+            }
+        ]
+    }
+}
