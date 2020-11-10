@@ -4,7 +4,7 @@ import json
 ###
 from util import json_save
 URL = {
-
+    # Dizi listesi Sekmesi
     'trdublaj': 'https://www.diziyo8.net/dizi-listesi-turkce-dublaj/',
     'traltyazi': 'https://www.diziyo8.net/dizi-listesi-turkce-altyazi/',
     'anime': 'https://www.diziyo8.net/dizi-listesi-anime/',
@@ -27,22 +27,17 @@ URL = {
         'Dexter': 'https://www.diziyo8.net/dizi-izle/dexter-turkce-dublaj-hd-izle/',
     }
 }
-
-
-def diziyo8():
-    req = requests.get(URL['yerlidizi'])
+###
+def dizi_listesi(file_name):
+    req = requests.get(URL[file_name])
     soup = bs(req.content, 'html.parser')
     items = {}
     for i in soup.find('div', {'class': 'dizi_turleri'})('a'):
-        name = i.font.text.lower().replace('ü', 'u').replace('ğ', 'g').replace(
-            'ı', 'i').replace('ç', 'c').replace('â€¢', '').replace('!', '').replace('(anime)', '')
+        name = i.font.text.lower().replace('ü', 'u').replace('ğ', 'g').replace('ı', 'i').replace('ç', 'c').replace('â€¢', '').replace('!', '').replace('(anime)', '')
         link = i.get('href')
-        items[name.strip().replace(':', '.').replace(
-            '.', '').replace('(tã¼rkã§e dublaj)', '')] = link
-    json_save(items, 'yerlidizi')
-    return items
-
-
+        items[name.strip().replace(':', '.').replace('.', '').replace('(tã¼rkã§e dublaj)', '')] = link
+    json_save(items,"dizilistesi/"+ file_name)
+###
 def view_scrapy(data):
     items = {}
     for i in data.keys():
@@ -75,18 +70,17 @@ def view_scrapy(data):
         }
         items[name] = new_data
     return items
-
-
-def film_scrapy():
-    # filmlistesi/yerlidizi.json
-    # filmlistesi/trdublaj.json
-    # filmlistesi/anime.json
-    # filmlistesi/asya.json
-    # filmlistesi/yerlidizi.json
-    with open('filmlistesi/yerlidizi.json', 'r') as f:
+###
+def dizi_listesi_scrapy():
+    # dizilistesi/yerlidizi.json
+    # dizilistesi/trdublaj.json
+    # dizilistesi/anime.json
+    # dizilistesi/asya.json
+    # dizilistesi/yerlidizi.json
+    with open('dizilistesi/yerlidizi.json', 'r') as f:
         data = json.load(f)
-        json_save(view_scrapy(data),'yerlidizi_')
-    
+        json_save(view_scrapy(data),'data/yerlidizi_')
+###
 def popular(name):
     url = URL['populerdiziler'][name]
     req = requests.get(url)
@@ -96,5 +90,12 @@ def popular(name):
 
 if __name__ == '__main__':
     #popular('La casa de papel')
-    #diziyo8()
-    film_scrapy()
+    
+    ### Dizi listelerini çekmek
+    # dizi_listesi('yerlidizi')
+    # dizi_listesi('trdublaj')
+    dizi_listesi('anime')
+    # dizi_listesi('asya')
+    #dizi_listesi('yerlidizi')
+    
+    #dizi_listesi_scrapy()
