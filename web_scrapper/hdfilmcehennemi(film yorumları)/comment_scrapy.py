@@ -12,7 +12,6 @@ def hdfilmcehennemi():
             rq = requests.get(link+'comment-page-1/#comments')
             soup2 = bs(rq.content,'html.parser')
             comment_list = soup2.find('div',{'class':'yorum-listesi'})
-            
             if comment_list.text == '':
                 print("{} filmine yorum yapılmamıştır".format(name))
                 continue
