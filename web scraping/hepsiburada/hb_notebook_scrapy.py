@@ -1,13 +1,10 @@
 from requests_html import AsyncHTMLSession, HTMLSession
-import json
 import re
 import time
-
+#
+from util import json_save
+#
 asession = AsyncHTMLSession()
-def json_save(data,path):
-    with open('hb_links.json','w',encoding='utf8') as f:
-        json.dump(liste, f, indent=4)
-        f.write("\n")
 ####################################################3       
 def hepsiburada_linkleri():
     session = HTMLSession()
