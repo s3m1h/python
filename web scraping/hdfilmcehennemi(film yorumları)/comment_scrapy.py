@@ -1,3 +1,5 @@
+from bs4 import BeautifulSoup as bs
+import requests
 def hdfilmcehennemi():
     for page in range(51):
         url = 'https://www.hdfilmcehennemi.net/tur/bilim-kurgu-filmleri-izleyin/page/{}/'.format(page+1)
