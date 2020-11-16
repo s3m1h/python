@@ -1,0 +1,857 @@
+{
+    "Bilgisayar/Tablet": {
+        "bilgisayartablet": "https://www.hepsiburada.com/bilgisayarlar-c-2147483646",
+        "dizustubilgisayar": "https://www.hepsiburada.com/laptop-notebook-dizustu-bilgisayarlar-c-98",
+        "notebook": "https://www.hepsiburada.com/laptop-notebook-dizustu-bilgisayarlar-c-98",
+        "2si1arada": "https://www.hepsiburada.com/laptop-notebook-dizustu-bilgisayarlar-c-98?filtreler=urunmodeli:%e2%82%acC4%e2%82%acB0kisi%e2%82%ac20Bir%e2%82%ac20Arada",
+        "oyunbilgisayarları": "https://www.hepsiburada.com/oyuncu-laptoplari-c-95583",
+        "tablet": "https://www.hepsiburada.com/tablet-c-3008012",
+        "apple": "https://www.hepsiburada.com/apple/tablet-c-3008012",
+        "samsung": "https://www.hepsiburada.com/samsung/tablet-c-3008012",
+        "diğer": "https://www.hepsiburada.com/escort-polypad-inca-dark-toshiba-asus-codegen-navitech-hometech-casper-ezcool-reeder-lenovo-quadro-fujitsu-onyo-artes-piranha-sunny-exper/tablet-c-3008012",
+        "masaustubilgisayar": "https://www.hepsiburada.com/masaustu-bilgisayarlar-c-34",
+        "all-in-one": "https://www.hepsiburada.com/monitor-bilgisayarlar-c-116465",
+        "masaustu": "https://www.hepsiburada.com/masaustu-bilgisayarlar-c-34",
+        "minimasaustu": "https://www.hepsiburada.com/mini-masaustu-bilgisayarlar-c-111001",
+        "oyunbilgisayarı": "https://www.hepsiburada.com/oyun-bilgisayarlari-c-409",
+        "klavye": "https://www.hepsiburada.com/klavyeler-c-1",
+        "mouse": "https://www.hepsiburada.com/mouse-c-52",
+        "kulaklık": "https://www.hepsiburada.com/kulakliklar-c-520",
+        "veridepolama": "https://www.hepsiburada.com/veri-depolama-urunleri-c-3013121",
+        "usbbellek": "https://www.hepsiburada.com/usb-bellekler-c-970",
+        "taşınabilirdisk": "https://www.hepsiburada.com/tasinabilir-diskler-c-100225",
+        "ssd": "https://www.hepsiburada.com/ssd-solid-state-drive-c-114814",
+        "tumkategoriler": "https://www.hepsiburada.com/bilgisayarlar-c-2147483646"
+    },
+    "Bilgisayar Bileşenleri": {
+        "bilgisayarbileşenleri": "https://www.hepsiburada.com/bilgisayar-parcalari-c-8",
+        "anakart": "https://www.hepsiburada.com/anakartlar-c-152",
+        "ekrankartları": "https://www.hepsiburada.com/ekran-kartlari-c-204",
+        "bellek(ram)": "https://www.hepsiburada.com/bellek-ramler-c-47",
+        "i̇şlemciler": "https://www.hepsiburada.com/islemciler-c-46",
+        "disk": "https://www.hepsiburada.com/hdd-harddiskler-c-100221",
+        "kasa": "https://www.hepsiburada.com/bilgisayar-kasalari-c-1013",
+        "ağ-modem-akıllıev": "https://www.hepsiburada.com/ag-modemler-c-3013122",
+        "accesspoint": "https://www.hepsiburada.com/access-pointler-c-410",
+        "router": "https://www.hepsiburada.com/routerlar-c-60001272",
+        "modemler": "https://www.hepsiburada.com/modemler-c-45",
+        "mouse": "https://www.hepsiburada.com/mouse-c-52",
+        "klavye": "https://www.hepsiburada.com/klavyeler-c-1",
+        "monitor": "https://www.hepsiburada.com/monitorler-c-57",
+        "yazıcı": "https://www.hepsiburada.com/yazicilar-c-3013118",
+        "antivirusveguvenlik": "https://www.hepsiburada.com/guvenlik-antivirus-programlari-c-60000207",
+        "officeyazılımları": "https://www.hepsiburada.com/office-yazilimlari-c-91410",
+        "aksesuarlar": "https://www.hepsiburada.com/bilgisayar-aksesuarlari-c-42",
+        "notebookçantaları": "https://www.hepsiburada.com/notebook-cantalari-c-676",
+        "tabletveipadaksesuarları": "https://www.hepsiburada.com/tablet-ipad-aksesuarlari-c-60000203",
+        "kablolarswitchveçoklayıcılar": "https://www.hepsiburada.com/kablo-switch-coklayicilar-c-757",
+        "kulaklık": "https://www.hepsiburada.com/kulakliklar-c-520",
+        "bluetoothkulaklıklar": "https://www.hepsiburada.com/bluetooth-kulakliklar-c-16218",
+        "mp3player": "https://www.hepsiburada.com/bluetooth-kulakliklar-c-16218"
+    },
+    "Lazer Yazıcılar": {
+        "lazeryazıcılar": "https://www.hepsiburada.com/lazer-yazicilar-c-6",
+        "hp": "https://www.hepsiburada.com/hp/tarayicilar-c-37",
+        "canon": "https://www.hepsiburada.com/canon/tarayicilar-c-37",
+        "samsung": "https://www.hepsiburada.com/samsung/lazer-yazicilar-c-6",
+        "diğer": "https://www.hepsiburada.com/kodak-epson-ndesk-benq-fujitsu/tarayicilar-c-37",
+        "murekkeppuskurtmeliyazıcılar": "https://www.hepsiburada.com/murekkep-puskurtmeli-yazicilar-c-4",
+        "epson": "https://www.hepsiburada.com/epson/murekkep-puskurtmeli-yazicilar-c-4",
+        "tarayıcılar": "https://www.hepsiburada.com/tarayicilar-c-37",
+        "iris": "https://www.hepsiburada.com/iris/tarayicilar-c-37",
+        "noktavuruşluyazıcılar": "https://www.hepsiburada.com/nokta-vuruslu-yazicilar-c-5",
+        "toner": "https://www.hepsiburada.com/tonerler-c-320",
+        "murekkepkartuşları": "https://www.hepsiburada.com/murekkep-kartuslar-c-243",
+        "tumkategoriler": "https://www.hepsiburada.com/yazicilar-c-3013118"
+    },
+    "Cep Telefonu": {
+        "ceptelefonu": "https://www.hepsiburada.com/cep-telefonlari-c-371965",
+        "androidtelefonlar": "https://www.hepsiburada.com/android-telefonlar-c-60005201",
+        "iphoneiostelefonlar": "https://www.hepsiburada.com/iphone-ios-telefonlar-c-60005202",
+        "windowstelefonlar": "https://www.hepsiburada.com/diger-telefonlar-c-60005204",
+        "ceptelefonuaksesuar": "https://www.hepsiburada.com/cep-telefonu-aksesuarlari-c-371967",
+        "bluetoothurunleri": "https://www.hepsiburada.com/cep-telefonu-bluetooth-urunleri-c-16216",
+        "kılıflar": "https://www.hepsiburada.com/cep-telefonu-kiliflari-c-16102",
+        "şarjcihazları": "https://www.hepsiburada.com/sarj-cihazlari-c-16113",
+        "taşınabilirpillişarjcihazları": "https://www.hepsiburada.com/tasinabilir-pilli-sarj-cihazlari-c-60004584",
+        "taşınabilirhoparlorler": "https://www.hepsiburada.com/tasinabilir-hoparlorler-c-376097",
+        "telefonkabloları": "https://www.hepsiburada.com/telefon-kablolari-c-29010123",
+        "kulaklıksetleri": "https://www.hepsiburada.com/kulaklik-setleri-c-16117",
+        "tasarımkılıflar": "https://www.hepsiburada.com/tasarim-kiliflar-c-60003561",
+        "tumkategoriler": "https://www.hepsiburada.com/telefonlar-c-2147483642"
+    },
+    "Telsiz / Masaüstü Tel.": {
+        "telsizmasaustutel.": "https://www.hepsiburada.com/telsiz-masaustu-telefonlar-c-371966",
+        "telsiztelefonlar": "https://www.hepsiburada.com/telsiz-telefonlar-c-16005",
+        "masaustutelefonlar": "https://www.hepsiburada.com/masaustu-telefonlar-c-16004",
+        "lisanssıztelsizler": "https://www.hepsiburada.com/lisanssiz-telsizler-c-16027",
+        "giyilebilirteknoloji": "https://www.hepsiburada.com/giyilebilir-teknoloji-smart-wear-c-60004669",
+        "akıllıbileklik": "https://www.hepsiburada.com/akilli-bileklikler-c-60004670",
+        "akıllısaatler": "https://www.hepsiburada.com/akilli-saatler-c-60003676",
+        "sporbileklikkolsaatleri": "https://www.hepsiburada.com/spor-bileklik-kol-saatleri-c-356970",
+        "sanalgerçeklikgozluğu(vr)": "https://www.hepsiburada.com/sanal-gerceklik-gozlukleri-c-60005915",
+        "ceptelefonuyedekparça": "https://www.hepsiburada.com/cep-telefonu-yedek-parcalari-c-60007722"
+    },
+    "Televizyon": {
+        "televizyon": "https://www.hepsiburada.com/led-tv-televizyonlar-c-163192",
+        "samsung": "https://www.hepsiburada.com/samsung/led-tv-televizyonlar-c-163192",
+        "lg": "https://www.hepsiburada.comlg/led-tv-televizyonlar-c-163192",
+        "vestel": "https://www.hepsiburada.com/vestel/led-tv-televizyonlar-c-163192",
+        "philips": "https://www.hepsiburada.com/philips/led-tv-televizyonlar-c-163192",
+        "grundig": "https://www.hepsiburada.com/grundig/led-tv-televizyonlar-c-163192",
+        "diğer": "https://www.hepsiburada.com/panasonic-sony-altus-arcelik-telefunken-piranha-sharp-toshiba-sunny-grundig-beko/led-tv-televizyonlar-c-163192",
+        "kablosuzsesvegoruntuaktarıcı": "https://www.hepsiburada.com/kablosuz-ses-goruntu-aktaricilar-c-17343",
+        "tvaskıaparatları": "https://www.hepsiburada.com/tv-aski-aparatlari-c-17539",
+        "evsinemasistemleri": "https://www.hepsiburada.com/ev-sinema-sistemleri-c-152492",
+        "evsinemahoparlorleri": "https://www.hepsiburada.com/ev-sinema-sistemleri-c-152492",
+        "dvdblu-rayoynatıcılar": "https://www.hepsiburada.com/dvd-blu-ray-oynaticilar-c-155124",
+        "muziksistemleri": "https://www.hepsiburada.com/muzik-sistemleri-c-17499",
+        "portatifsistemler": "https://www.hepsiburada.com/portatif-sistemler-c-17012",
+        "iphoneveipodhoparlorsistemi": "https://www.hepsiburada.com/iphone-ipod-hoparlor-sistemleri-c-8003216",
+        "alarmsaatliradyolar": "https://www.hepsiburada.com/alarm-saatli-radyolar-c-17498",
+        "bluetoothhoparlor": "https://www.hepsiburada.com/bluetooth-hoparlorler-c-60004557",
+        "tumkategoriler": "https://www.hepsiburada.com/ses-goruntu-sistemleri-c-17201"
+    },
+    "Uydu Alıcıları ve Aksesuarları": {
+        "uydualıcılarıveaksesuarları": "https://www.hepsiburada.com/uydu-alicilari-c-155057",
+        "uydualıcıları": "https://www.hepsiburada.com/uydu-alicilari-c-155057",
+        "uydualıcısıaksesuarları": "https://www.hepsiburada.com/uydu-alicisi-aksesuarlari-c-155056",
+        "guvenliksistemleri": "https://www.hepsiburada.com/guvenlik-sistemleri-c-161719",
+        "projeksiyoncihazlarıaksesuar": "https://www.hepsiburada.com/projeksiyon-sistemleri-c-285390",
+        "mp3playerseskayıtcihazları": "https://www.hepsiburada.com/mp3-ses-kayit-cihazlari-c-3013123",
+        "3dgozluk": "https://www.hepsiburada.com/3d-gozlukler-c-60004528",
+        "kablosarfmalzemeler": "https://www.hepsiburada.com/kablo-soketler-c-157410"
+    },
+    "Çamaşır Makineleri": {
+        "çamaşırmakineleri": "https://www.hepsiburada.com/camasir-makineleri-c-155121",
+        "vestel": "https://www.hepsiburada.com/vestel/bulasik-makineleri-c-22156?qs=%2Fbrand%3D%7Bvestel%7D",
+        "samsung": "https://www.hepsiburada.com/samsung/bulasik-makineleri-c-22156?qs=%2Fbrand%3D%7Bsamsung%7D",
+        "altus": "https://www.hepsiburada.com/altus/buzdolaplari-c-22154?qs=%2Fbrand%3D%7Baltus%7D",
+        "grundig": "https://www.hepsiburada.com/grundig/bulasik-makineleri-c-22156",
+        "buzdolapları": "https://www.hepsiburada.com/buzdolaplari-c-22154",
+        "profilo": "https://www.hepsiburada.com/profilo/bulasik-makineleri-c-22156?qs=%2Fbrand%3D%7Bprofilo%7D",
+        "bulaşıkmakineleri": "https://www.hepsiburada.com/bulasik-makineleri-c-22156",
+        "derindondurucular": "https://www.hepsiburada.com/derin-dondurucular-c-22266",
+        "beko": "https://www.hepsiburada.com/beko/derin-dondurucular-c-22266?qs=%2Fbrand%3D%7Bbeko%7D",
+        "liebherr": "https://www.hepsiburada.com/liebherr/derin-dondurucular-c-22266?qs=%2Fbrand%3D%7Bliebherr%7D",
+        "ankastresetler": "https://www.hepsiburada.com/ankastre-setler-c-234329",
+        "ferre": "https://www.hepsiburada.com/ferre/ankastre-setler-c-234329?qs=%2Fbrand%3D%7Bferre%7D",
+        "termikel": "https://www.hepsiburada.com/termikel/ankastre-setler-c-234329?qs=%2Fbrand%3D%7Btermikel%7D",
+        "tumkategoriler": "https://www.hepsiburada.com/beyaz-esya-ankastreler-c-235604"
+    },
+    "Ocaklar": {
+        "ocaklar": "https://www.hepsiburada.com/ocaklar-c-22026",
+        "fırınlar": "https://www.hepsiburada.com/firinlar-c-22016",
+        "davlumbazlar": "https://www.hepsiburada.com/davlumbazlar-c-22006",
+        "aspiratorler": "https://www.hepsiburada.com/aspiratorler-c-22002",
+        "susebili": "https://www.hepsiburada.com/su-sebilleri-c-236214",
+        "kurutmamakineleri": "https://www.hepsiburada.com/kurutma-makineleri-c-153223"
+    },
+    "Elektrikli Mutfak Aletleri": {
+        "elektriklimutfakaletleri": "https://www.hepsiburada.com/elektrikli-mutfak-aletleri-c-22001",
+        "çaymakineleri": "https://www.hepsiburada.com/cay-makineleri-c-22005",
+        "evelektronikurunleri": "https://www.hepsiburada.com/ev-elektronik-urunleri-c-2147483638",
+        "kahvemakineleri": "https://www.hepsiburada.com/kahve-makineleri-c-22348",
+        "tostmakineleri": "https://www.hepsiburada.com/tost-makineleri-c-22014",
+        "blender": "https://www.hepsiburada.com/blenderlar-c-22003",
+        "meyvesıkıcıları": "https://www.hepsiburada.com/meyve-sikacaklari-c-22020",
+        "mikrodalgafırınlar": "https://www.hepsiburada.com/mikrodalga-firinlar-c-22021",
+        "minimidifırınlar": "https://www.hepsiburada.com/mini-midi-firinlar-c-233088",
+        "mutfakşefi": "https://www.hepsiburada.com/mutfak-sefi-c-232495",
+        "supurgelervehalıyıkama": "https://www.hepsiburada.com/supurgeler-c-155123",
+        "supurgeler": "https://www.hepsiburada.com/supurgeler-c-155123",
+        "halıyıkamamakineleri": "https://www.hepsiburada.com/hali-yikama-makinalari-c-17793",
+        "şarjlısupurgeler": "https://www.hepsiburada.com/sarjli-supurgeler-c-159445",
+        "utuler": "https://www.hepsiburada.com/utuler-c-155122",
+        "tumkategoriler": "https://www.hepsiburada.com/elektrikli-ev-aletleri-c-17071"
+    },
+    "Dikiş Makinaları & Aksesuarları": {
+        "dikişmakinalarıaksesuarları": "https://www.hepsiburada.com/dikis-makinasi-aksesuarlari-c-162153",
+        "dikişmakinaları": "https://www.hepsiburada.com/dikis-makinalari-c-162152",
+        "havatemizlemevenemalmacihazları": "https://www.hepsiburada.com/hava-temizleme-nem-alma-cihazlari-c-17175",
+        "kişiselbakımaletleri": "https://www.hepsiburada.com/kisisel-bakim-aletleri-c-60005107",
+        "tıraşmakineleri": "https://www.hepsiburada.com/tiras-makineleri-c-26012156",
+        "epilatorler": "https://www.hepsiburada.com/epilatorler-c-26012145",
+        "saçşekillendirmecihazları": "https://www.hepsiburada.com/sac-sekillendirme-cihazlari-c-26012129"
+    },
+    "SLR Fotoğraf Makineleri": {
+        "slrfotoğrafmakineleri": "https://www.hepsiburada.com/slr-fotograf-makineleri-c-1100301",
+        "canon": "https://www.hepsiburada.com/canon/dijital-fotograf-makineleri-c-248?qs=%2Fbrand%3D%7Bcanon%7D",
+        "nikon": "https://www.hepsiburada.com/nikon/dijital-fotograf-makineleri-c-248?qs=%2Fbrand%3D%7Bnikon%7D",
+        "sony": "https://www.hepsiburada.com/sony/video-kameralar-c-17076",
+        "dijitalfotoğrafmakineleri": "https://www.hepsiburada.com/dijital-fotograf-makineleri-c-248",
+        "samsung": "https://www.hepsiburada.com/samsung/aynasiz-kompakt-slr-makineler-c-60002029",
+        "diğer": "https://www.hepsiburada.com/sony-nikon/aynasiz-kompakt-slr-makineler-c-60002029",
+        "aynasızkompaktslrmk.": "https://www.hepsiburada.com/aynasiz-kompakt-slr-makineler-c-60002029",
+        "olympus": "https://www.hepsiburada.com/olympus/aynasiz-kompakt-slr-makineler-c-60002029",
+        "fujifilm": "https://www.hepsiburada.com/fujifilm/aynasiz-kompakt-slr-makineler-c-60002029",
+        "outdoorsualtıfoto.mk.": "https://www.hepsiburada.com/outdoor-sualti-fotograf-makineleri-c-60003581",
+        "videokameralar": "https://www.hepsiburada.com/video-kameralar-c-17076",
+        "tumkategoriler": "https://www.hepsiburada.com/foto-kameralari-c-2147483606"
+    },
+    "Aksesuarlar": {
+        "aksesuarlar": "https://www.hepsiburada.com/oyun-konsolu-aksesuarlari-c-33000020",
+        "playstation3aksesuar": "https://www.hepsiburada.com/playstation-3-aksesuarlari-c-1200698",
+        "playstation4aksesuar": "https://www.hepsiburada.com/playstation-4-aksesuarlari-c-60004080",
+        "xboxaksesuarları": "https://www.hepsiburada.com/xbox-aksesuarlari-c-33000467",
+        "pcjoystickgamepad": "https://www.hepsiburada.com/pc-joystick-gamepad-c-33000240",
+        "playstation2aksesuar": "https://www.hepsiburada.com/playstation-2-aksesuarlari-c-33000007",
+        "oyunbilgisayarı": "https://www.hepsiburada.com/oyun-bilgisayarlari-c-409",
+        "klavye": "https://www.hepsiburada.com/klavyeler-c-1",
+        "mouse": "https://www.hepsiburada.com/mouse-c-52",
+        "kulaklık": "https://www.hepsiburada.com/kulakliklar-c-520"
+    },
+    "Klimalar": {
+        "klimalar": "https://www.hepsiburada.com/klimalar-c-17453",
+        "airfel": "https://www.hepsiburada.com/airfel/klimalar-c-17453",
+        "vestel": "https://www.hepsiburada.com/vestel/klimalar-c-17453",
+        "demirdokum": "https://www.hepsiburada.com/demirdokum/klimalar-c-17453",
+        "samsung": "https://www.hepsiburada.com/samsung/klimalar-c-17453",
+        "diğer": "https://www.hepsiburada.com/altus-baymak-electrolux-finlux-daikin-arcelik-kumtel-indesit-siemens-lg-hitachi-seg-vestfrost-regal-beko/klimalar-c-17453",
+        "sobalarveisıtıcılar": "https://www.hepsiburada.com/sobalar-isiticilar-c-8001872",
+        "fanlıisıtıcılar": "https://www.hepsiburada.com/fanli-isiticilar-c-80081039",
+        "portatifsoğutucular": "https://www.hepsiburada.com/portatif-sogutucular-c-8003156",
+        "vantilatorler": "https://www.hepsiburada.com/vantilatorler-c-17412",
+        "havaperdeleri": "https://www.hepsiburada.com/hava-perdeleri-c-157284",
+        "tumkategoriler": "https://www.hepsiburada.com/isitma-sogutma-urunleri-c-161876"
+    },
+    "Kombiler": {
+        "kombiler": "https://www.hepsiburada.com/kombiler-c-17723",
+        "şofbenler": "https://www.hepsiburada.com/sofbenler-c-17434",
+        "termosifonlar": "https://www.hepsiburada.com/termosifonlar-c-17769"
+    },
+    "Oyun Konsolları": {
+        "oyunkonsolları": "https://www.hepsiburada.com/oyunlar-oyun-konsollari-c-2147483602",
+        "playstation3konsol": "https://www.hepsiburada.com/playstation-3-konsollari-c-1200413",
+        "xboxkonsol": "https://www.hepsiburada.com/xbox-konsollari-c-33000465",
+        "playstation4konsol": "https://www.hepsiburada.com/playstation-4-konsollari-c-60003892",
+        "oyunlar": "https://www.hepsiburada.com/oyun-konsollari-oyunlari-c-33000018",
+        "playstation3oyunları": "https://www.hepsiburada.com/playstation-3-oyunlari-c-1200412",
+        "playstation4oyunları": "https://www.hepsiburada.com/playstation-4-oyunlari-c-60003893",
+        "xboxoneoyunları": "https://www.hepsiburada.com/xbox-one-oyunlari-c-33000443",
+        "xbox360oyunları": "https://www.hepsiburada.com/xbox-360-oyunlari-c-33000194",
+        "bilgisayaroyunları": "https://www.hepsiburada.com/bilgisayar-oyunlari-c-10278",
+        "pspoyunları": "https://www.hepsiburada.com/psp-oyunlari-c-1204495",
+        "tumkategoriler": "https://www.hepsiburada.com/oyunlar-oyun-konsollari-c-2147483602"
+    },
+    "Moda Anasayfa": {
+        "modaanasayfa": "https://www.hepsiburada.com/giyim-ayakkabi-c-2147483636",
+        "kadıngiyim": "https://www.hepsiburada.com/bayan-giyim-urunleri-c-60004640",
+        "erkekgiyim": "https://www.hepsiburada.com/erkek-giyim-urunleri-c-60004641",
+        "kızçocuk": "https://www.hepsiburada.com/kiz-cocuk-c-205474",
+        "erkekçocuk": "https://www.hepsiburada.com/erkek-cocuk-c-205454",
+        "bebekgiyim": "https://www.hepsiburada.com/bebek-kiyafetleri-giyim-c-60007347",
+        "abiyeelbiseler": "https://www.hepsiburada.com/abiye-elbiseler-c-12024561",
+        "elbisemodelleri": "https://www.hepsiburada.com/elbiseler-c-12087202",
+        "geceelbiseleri": "https://www.hepsiburada.com/gece-elbiseleri-c-12115599",
+        "mezuniyetelbiseleri": "https://www.hepsiburada.com/mezuniyet-elbiseleri-c-60006713",
+        "tumsporurunleri": "https://www.hepsiburada.com/spor-malzemeleri-kiyafetleri-c-369685",
+        "erkekmont": "https://www.hepsiburada.com/erkek-montlar-c-60000759",
+        "i̇çgiyim": "https://www.hepsiburada.com/erkek-ic-giyim-urunleri-c-60001586",
+        "bayangecelikler": "https://www.hepsiburada.com/bayan-gecelikler-c-60000735",
+        "fantezigiyim": "https://www.hepsiburada.com/fantezi-giyim-urunleri-c-60000682",
+        "sporgiyim": "https://www.hepsiburada.com/spor-giyim-urunleri-c-60000545?filtreler=cinsiyet:%e2%82%acC3%e2%82%ac87ocuk",
+        "ayakkabı": "https://www.hepsiburada.com/ayakkabi-c-60000117",
+        "topukluayakkabı": "https://www.hepsiburada.com/topuklu-ayakkabilar-c-60003869",
+        "bayanbotlar": "https://www.hepsiburada.com/bayan-botlar-c-60000119",
+        "erkekbotlar": "https://www.hepsiburada.com/erkek-botlar-c-60000125",
+        "sporayakkabı": "https://www.hepsiburada.com/spor-ayakkabilar-c-384551?filtreler=cinsiyet:%e2%82%acC3%e2%82%ac87ocuk",
+        "outdoor": "https://www.hepsiburada.com/outdoor-giyim-ayakkabilar-c-22006250?filtreler=cinsiyet:Erkek",
+        "çanta": "https://www.hepsiburada.com/erkek-cantalar-c-60003896",
+        "tesetturgiyim": "https://www.hepsiburada.com/tesettur-giyim-c-60006034",
+        "şemsiye": "https://www.hepsiburada.com/bayan-semsiyeler-c-60001132",
+        "saçaksesuarları": "https://www.hepsiburada.com/bayan-sac-aksesuarlari-c-60001133",
+        "eşarp": "https://www.hepsiburada.com/esarplar-c-60001143",
+        "şapka": "https://www.hepsiburada.com/bayan-sapka-c-60002651",
+        "erkek": "https://www.hepsiburada.com/erkek-giyim-modelleri-c-12087177",
+        "aksesuar": "https://www.hepsiburada.com/erkek-aksesuarlari-c-60001104",
+        "kemer": "https://www.hepsiburada.com/erkek-kemerler-c-60001107",
+        "kravat": "https://www.hepsiburada.com/kravat-c-60001112",
+        "papyon": "https://www.hepsiburada.com/erkek-papyonlar-c-60000793",
+        "çocukgiyim": "https://www.hepsiburada.com/cocuk-giyim-kiyafetleri-c-60002723"
+    },
+    "Saatler": {
+        "saatler": "https://www.hepsiburada.com/saatler-c-318242",
+        "kolsaatleri": "https://www.hepsiburada.com/kol-saatleri-c-25008402",
+        "erkekkolsaatleri": "https://www.hepsiburada.com/erkek-kol-saatleri-c-25008404",
+        "bayankolsaatleri": "https://www.hepsiburada.com/bayan-kol-saatleri-c-25008405",
+        "masasaatleri": "https://www.hepsiburada.com/masa-saatleri-c-25008464",
+        "duvarsaatleri": "https://www.hepsiburada.com/duvar-saatleri-c-25008465",
+        "guneşgozluğu": "https://www.hepsiburada.com/gunes-gozlugu-c-1120745",
+        "erkek": "https://www.hepsiburada.com/erkek-gunes-gozlukleri-c-1123164",
+        "kadın": "https://www.hepsiburada.com/kadin-gunes-gozlukleri-c-1123163",
+        "unisex": "https://www.hepsiburada.com/unisex-gunes-gozlukleri-c-60000375",
+        "çocuk": "https://www.hepsiburada.com/cocuk-gunes-gozlukleri-c-60000535",
+        "piposetiveaksesuarları": "https://www.hepsiburada.com/pipo-seti-aksesuarlari-c-25015202",
+        "sigaratabakaveaksesuarları": "https://www.hepsiburada.com/sigara-tabaka-aksesuarlari-c-25015258",
+        "tesbihler": "https://www.hepsiburada.com/tesbihler-c-60002649",
+        "çakmaklar": "https://www.hepsiburada.com/cakmak-c-18137",
+        "puroaksesuarları": "https://www.hepsiburada.com/puro-aksesuarlari-c-18207",
+        "nargilelerveaksesuarlar": "https://www.hepsiburada.com/nargile-aksesuar-modelleri-c-201950"
+    },
+    "Yüzük": {
+        "yuzuk": "https://www.hepsiburada.com/yuzukler-c-16032931",
+        "bilezik": "https://www.hepsiburada.com/bilezikler-c-16032935",
+        "kolye": "https://www.hepsiburada.com/kolyeler-c-16032932",
+        "kupe": "https://www.hepsiburada.com/kupeler-c-16032933",
+        "bileklik": "https://www.hepsiburada.com/bileklikler-c-16032934",
+        "takıseti": "https://www.hepsiburada.com/taki-seti-modelleri-c-16032936",
+        "erkektakıları": "https://www.hepsiburada.com/erkek-takilar-c-60004716",
+        "çeliktakılar": "https://www.hepsiburada.com/celik-takilar-c-60004509",
+        "tesbih": "https://www.hepsiburada.com/tesbihler-c-60002649",
+        "hediyesetleri": "https://www.hepsiburada.com/hediye-setleri-c-60003788",
+        "sevgiliyeozel": "https://www.hepsiburada.com/sevgiliye-ozel-hediyeler-c-60003789",
+        "altın": "https://www.hepsiburada.com/kulce-ziynet-cumhuriyet-altinlari-c-530175",
+        "ziynetaltın": "https://www.hepsiburada.com/ziynet-altinlar-c-16032976",
+        "kulçealtın": "https://www.hepsiburada.com/kulce-altin-fiyatlari-c-530176",
+        "cumhuriyetaltını": "https://www.hepsiburada.com/cumhuriyet-altinlari-c-60003493"
+    },
+    "Mobilya": {
+        "mobilya": "https://www.hepsiburada.com/mobilyalar-c-18021299",
+        "yatakodası": "https://www.hepsiburada.com/yatak-odalari-c-18021301",
+        "gardırop": "https://www.hepsiburada.com/gardiroplar-c-18021329",
+        "komodin": "https://www.hepsiburada.com/komodin-sifonyerler-c-18021330",
+        "baza": "https://www.hepsiburada.com/yatak-odasi-bazalari-c-18021326",
+        "başlık": "https://www.hepsiburada.com/yatak-basliklari-c-18021327",
+        "oturmaodası": "https://www.hepsiburada.com/oturma-odalari-c-18021303",
+        "tvuniteleri": "https://www.hepsiburada.com/tv-uniteleri-c-18021389",
+        "kanepevekoltuk": "https://www.hepsiburada.com/kanepe-koltuklar-c-18021333",
+        "koşekoltuk": "https://www.hepsiburada.com/kose-koltuk-takimlari-c-60000854",
+        "pufminder": "https://www.hepsiburada.com/puf-minderler-c-18021334",
+        "yemekodası": "https://www.hepsiburada.com/yemek-odalari-c-18021302",
+        "tvsehpalarıuniteleri": "https://www.hepsiburada.com/tv-sehpalari-uniteleri-c-18021336",
+        "çalışmaodası": "https://www.hepsiburada.com/calisma-odalari-c-18021307",
+        "antrehol": "https://www.hepsiburada.com/antre-holler-c-18021305",
+        "gençodası": "https://www.hepsiburada.com/genc-odalari-c-18021386",
+        "bebekodası": "https://www.hepsiburada.com/bebek-odalari-c-60001284",
+        "mutfak": "https://www.hepsiburada.com/mutfak-mobilya-dekorasyon-c-18021304"
+    },
+    "Yatak Odası": {
+        "yatakodası": "https://www.hepsiburada.com/yatak-odalari-c-18021301",
+        "gardırop": "https://www.hepsiburada.com/gardiroplar-c-18021329",
+        "komodin": "https://www.hepsiburada.com/komodin-sifonyerler-c-18021330",
+        "baza": "https://www.hepsiburada.com/yatak-odasi-bazalari-c-18021326",
+        "başlık": "https://www.hepsiburada.com/yatak-basliklari-c-18021327"
+    },
+    "Oturma Odası": {
+        "oturmaodası": "https://www.hepsiburada.com/oturma-odalari-c-18021303",
+        "tvuniteleri": "https://www.hepsiburada.com/tv-uniteleri-c-18021389",
+        "kanepevekoltuk": "https://www.hepsiburada.com/kanepe-koltuklar-c-18021333",
+        "koşekoltuk": "https://www.hepsiburada.com/kose-koltuk-takimlari-c-60000854",
+        "pufminder": "https://www.hepsiburada.com/puf-minderler-c-18021334"
+    },
+    "Yemek Odası": {
+        "yemekodası": "https://www.hepsiburada.com/yemek-odalari-c-18021302"
+    },
+    "TV Sehpaları/Üniteleri": {
+        "tvsehpalarıuniteleri": "https://www.hepsiburada.com/tv-sehpalari-uniteleri-c-18021336"
+    },
+    "Çalışma Odası": {
+        "çalışmaodası": "https://www.hepsiburada.com/calisma-odalari-c-18021307"
+    },
+    "Antre / Hol": {
+        "antrehol": "https://www.hepsiburada.com/antre-holler-c-18021305"
+    },
+    "Genç Odası": {
+        "gençodası": "https://www.hepsiburada.com/genc-odalari-c-18021386"
+    },
+    "Bebek Odası": {
+        "bebekodası": "https://www.hepsiburada.com/bebek-odalari-c-60001284"
+    },
+    "Mutfak": {
+        "mutfak": "https://www.hepsiburada.com/mutfak-mobilya-dekorasyon-c-18021304"
+    },
+    "Ev Tekstili": {
+        "evtekstili": "https://www.hepsiburada.com/ev-tekstili-c-2147483618",
+        "halı": "https://www.hepsiburada.com/halilar-c-9022246",
+        "perde": "https://www.hepsiburada.com/perdeler-c-9022247",
+        "kilim": "https://www.hepsiburada.com/kilimler-c-9010092",
+        "banyotekstili": "https://www.hepsiburada.com/banyo-tekstili-urunleri-c-9010073",
+        "evdekorasyonurunleri": "https://www.hepsiburada.com/ev-dekorasyon-urunleri-c-9010084",
+        "yataklar": "https://www.hepsiburada.com/yataklar-c-511123",
+        "nevresimtakımları": "https://www.hepsiburada.com/nevresim-takimlari-c-510001",
+        "yastık": "https://www.hepsiburada.com/yastiklar-c-510008",
+        "yorgan": "https://www.hepsiburada.com/yorganlar-c-510009",
+        "yatakortusu": "https://www.hepsiburada.com/yatak-ortuleri-c-512544",
+        "evdekorasyon": "https://www.hepsiburada.com/dekorasyon-c-18021300",
+        "duvarsaatleri": "https://www.hepsiburada.com/ev-dekorasyon-duvar-saatleri-c-18021458",
+        "duvarkağıtları": "https://www.hepsiburada.com/duvar-kagitlari-c-18042736",
+        "tablolar": "https://www.hepsiburada.com/tablolar-c-18021320",
+        "aynalar": "https://www.hepsiburada.com/duvar-aynalari-c-18021308",
+        "elektrikaydınlatma": "https://www.hepsiburada.com/elektrik-aydinlatma-urunleri-c-13003201",
+        "abajur": "https://www.hepsiburada.com/abajurlar-c-13007266",
+        "ampuller": "https://www.hepsiburada.com/ampuller-c-13003202",
+        "aplik": "https://www.hepsiburada.com/aplikler-c-13006543",
+        "avize": "https://www.hepsiburada.com/avizeler-c-13003223",
+        "evvemutfakgereçleri": "https://www.hepsiburada.com/mutfak-gerecleri-c-22500",
+        "mutfakgereçleri": "https://www.hepsiburada.com/mutfak-gerecleri-c-22500",
+        "evgereçleri": "https://www.hepsiburada.com/ev-gerecleri-c-60001549",
+        "tencereler": "https://www.hepsiburada.com/tencere-setleri-tencereler-c-22535",
+        "yemektakımları": "https://www.hepsiburada.com/yemek-takimlari-c-60006075"
+    },
+    "Ofis / Kırtasiye": {
+        "ofiskırtasiye": "https://www.hepsiburada.com/kirtasiye-ofis-urunleri-c-2147483643",
+        "kırtasiyeurunleri": "https://www.hepsiburada.com/kirtasiye-urunleri-c-15344",
+        "okulurunleri": "https://www.hepsiburada.com/kirtasiye-urunleri-c-15344",
+        "fotokopikağıdı": "https://www.hepsiburada.com/fotokopi-kagitlari-c-15117",
+        "projeksiyonsistemleri": "https://www.hepsiburada.com/projeksiyon-sistemleri-c-285390",
+        "pillervesarjcihazları": "https://www.hepsiburada.com/piller-sarj-cihazlari-c-15365",
+        "ofissarfmalzemeleri": "https://www.hepsiburada.com/ofis-sarf-tuketim-malzemeleri-c-60005124",
+        "ofismobilyaları": "https://www.hepsiburada.com/ofis-mobilyalari-c-15312",
+        "ofiskoltukları": "https://www.hepsiburada.com/ofis-koltuklari-c-60001663",
+        "parakasaları": "https://www.hepsiburada.com/para-kasalari-c-15461",
+        "ofismasaları": "https://www.hepsiburada.com/ofis-masalari-c-21032929",
+        "masatakımları": "https://www.hepsiburada.com/ofis-masa-takimlari-c-21033182",
+        "ofisdolapları": "https://www.hepsiburada.com/ofis-dolaplari-c-60001664",
+        "ayaklıkulluk": "https://www.hepsiburada.com/ayakli-kullukler-c-15104",
+        "elektriklievaletleri": "https://www.hepsiburada.com/elektrikli-ev-aletleri-c-17071",
+        "elektriklimutfakaletleri": "https://www.hepsiburada.com/elektrikli-mutfak-aletleri-c-22001",
+        "utuler": "https://www.hepsiburada.com/utuler-c-155122",
+        "supurgeler": "https://www.hepsiburada.com/supurgeler-c-155123",
+        "çaymakineleri": "https://www.hepsiburada.com/cay-makineleri-c-22005",
+        "kahvemakineleri": "https://www.hepsiburada.com/kahve-makineleri-c-22348",
+        "tostmakinesi": "https://www.hepsiburada.com/tost-makineleri-c-22014",
+        "blender": "https://www.hepsiburada.com/blenderlar-c-22003"
+    },
+    "Oto Aksesuar": {
+        "otoaksesuar": "https://www.hepsiburada.com/oto-aksesuarlari-c-2147483631",
+        "otoaksesuarurunleri": "https://www.hepsiburada.com/oto-aksesuar-urunleri-c-253574",
+        "bakımtemizlik": "https://www.hepsiburada.com/oto-bakim-temizlik-urunleri-c-20035732",
+        "silecekler": "https://www.hepsiburada.com/silecekler-c-60003680",
+        "paspaslar": "https://www.hepsiburada.com/oto-paspaslari-c-20035777",
+        "koltukkılıfları": "https://www.hepsiburada.com/koltuk-kiliflari-c-20036892",
+        "otosesvegoruntusistemleri": "https://www.hepsiburada.com/oto-ses-goruntu-sistemleri-c-253575",
+        "navigasyon": "https://www.hepsiburada.com/navigasyon-sistemleri-c-257643",
+        "goruntusistemleri": "https://www.hepsiburada.com/arac-ici-multimedya-goruntu-sistemleri-c-60001687",
+        "hoparlorler": "https://www.hepsiburada.com/hoparlorler-c-26090",
+        "teypcdçalar": "https://www.hepsiburada.com/oto-teyp-c-26080",
+        "araçi̇çikameralar": "https://www.hepsiburada.com/arac-ici-kameralar-c-26027",
+        "lastikjantlar": "https://www.hepsiburada.com/oto-lastikler-c-259720",
+        "lastikler": "https://www.hepsiburada.com/oto-lastikler-c-259720",
+        "jantlar": "https://www.hepsiburada.com/jantlar-c-20006830",
+        "bakımveaksesuarlar": "https://www.hepsiburada.com/oto-lastik-bakim-malzemeleri-c-262977",
+        "motosikletaksesuarları": "https://www.hepsiburada.com/motosiklet-aksesuarlari-c-20029247",
+        "motosiklet": "https://www.hepsiburada.com/motosiklet-c-60008737",
+        "kasklar": "https://www.hepsiburada.com/kasklar-c-20029253",
+        "çantalar": "https://www.hepsiburada.com/motosiklet-cantalari-c-20029249",
+        "giyimurunleri": "https://www.hepsiburada.com/motosiklet-giyim-urunleri-c-20029251",
+        "yedekparçalar": "https://www.hepsiburada.com/oto-yedek-parcalar-c-20003812",
+        "akuler": "https://www.hepsiburada.com/akuler-c-60003762",
+        "filtreler": "https://www.hepsiburada.com/oto-filtreleri-c-60001489",
+        "yağvemotorkatkıları": "https://www.hepsiburada.com/yag-motor-katkilari-c-26005"
+    },
+    "Oto Aksesuar Ürünleri": {
+        "otoaksesuarurunleri": "https://www.hepsiburada.com/oto-aksesuar-urunleri-c-253574",
+        "bakımtemizlik": "https://www.hepsiburada.com/oto-bakim-temizlik-urunleri-c-20035732",
+        "silecekler": "https://www.hepsiburada.com/silecekler-c-60003680",
+        "paspaslar": "https://www.hepsiburada.com/oto-paspaslari-c-20035777",
+        "koltukkılıfları": "https://www.hepsiburada.com/koltuk-kiliflari-c-20036892"
+    },
+    "Oto Ses Ve Görüntü Sistemleri": {
+        "otosesvegoruntusistemleri": "https://www.hepsiburada.com/oto-ses-goruntu-sistemleri-c-253575",
+        "navigasyon": "https://www.hepsiburada.com/navigasyon-sistemleri-c-257643",
+        "goruntusistemleri": "https://www.hepsiburada.com/arac-ici-multimedya-goruntu-sistemleri-c-60001687",
+        "hoparlorler": "https://www.hepsiburada.com/hoparlorler-c-26090",
+        "teypcdçalar": "https://www.hepsiburada.com/oto-teyp-c-26080",
+        "araçi̇çikameralar": "https://www.hepsiburada.com/arac-ici-kameralar-c-26027"
+    },
+    "Lastik & Jantlar": {
+        "lastikjantlar": "https://www.hepsiburada.com/oto-lastikler-c-259720",
+        "lastikler": "https://www.hepsiburada.com/oto-lastikler-c-259720",
+        "jantlar": "https://www.hepsiburada.com/jantlar-c-20006830",
+        "bakımveaksesuarlar": "https://www.hepsiburada.com/oto-lastik-bakim-malzemeleri-c-262977"
+    },
+    "Motosiklet Aksesuarları": {
+        "motosikletaksesuarları": "https://www.hepsiburada.com/motosiklet-aksesuarlari-c-20029247",
+        "motosiklet": "https://www.hepsiburada.com/motosiklet-c-60008737",
+        "kasklar": "https://www.hepsiburada.com/kasklar-c-20029253",
+        "çantalar": "https://www.hepsiburada.com/motosiklet-cantalari-c-20029249",
+        "giyimurunleri": "https://www.hepsiburada.com/motosiklet-giyim-urunleri-c-20029251"
+    },
+    "Yedek Parçalar": {
+        "yedekparçalar": "https://www.hepsiburada.com/oto-yedek-parcalar-c-20003812",
+        "akuler": "https://www.hepsiburada.com/akuler-c-60003762",
+        "filtreler": "https://www.hepsiburada.com/oto-filtreleri-c-60001489",
+        "yağvemotorkatkıları": "https://www.hepsiburada.com/yag-motor-katkilari-c-26005"
+    },
+    "Bahçe": {
+        "bahçe": "https://www.hepsiburada.com/bahce-malzemeleri-c-2147483601",
+        "bahçemakineleri": "https://www.hepsiburada.com/bahce-makineleri-c-465415",
+        "çapamakineleri": "https://www.hepsiburada.com/capa-makineleri-c-454000",
+        "çimbiçme": "https://www.hepsiburada.com/cim-bicme-makineleri-c-450871",
+        "basınçlıyıkama": "https://www.hepsiburada.com/yuksek-basincli-bahce-yikama-makineleri-c-451862",
+        "ağaçkesme": "https://www.hepsiburada.com/agac-kesme-makineleri-c-34000109",
+        "bahçemobilyası": "https://www.hepsiburada.com/bahce-mobilyalari-c-34001194",
+        "salıncak": "https://www.hepsiburada.com/bahce-salincaklari-c-34001208",
+        "hamak": "https://www.hepsiburada.com/hamaklar-c-34001207",
+        "takımmobilya": "https://www.hepsiburada.com/bahce-takim-mobilyalari-c-34001200",
+        "mangal-barbeku": "https://www.hepsiburada.com/mangallar-barbekuler-c-34001196",
+        "mangal": "https://www.hepsiburada.com/mangallar-c-34001281",
+        "mangalaksesuarları": "https://www.hepsiburada.com/mangal-aksesuarlari-c-34001252",
+        "piknikseti": "https://www.hepsiburada.com/piknik-seti-c-60005580",
+        "haşerekovucu": "https://www.hepsiburada.com/hasere-fare-kovucular-c-60001734",
+        "elektrikaydınlatma": "https://www.hepsiburada.com/elektrik-aydinlatma-urunleri-c-13003201",
+        "avize": "https://www.hepsiburada.com/avizeler-c-13003223",
+        "ampuller": "https://www.hepsiburada.com/ampuller-c-13003202",
+        "masalambası": "https://www.hepsiburada.com/masa-lambalari-c-13003235"
+    },
+    "Bahçe Makineleri": {
+        "bahçemakineleri": "https://www.hepsiburada.com/bahce-makineleri-c-465415",
+        "çapamakineleri": "https://www.hepsiburada.com/capa-makineleri-c-454000",
+        "çimbiçme": "https://www.hepsiburada.com/cim-bicme-makineleri-c-450871",
+        "basınçlıyıkama": "https://www.hepsiburada.com/yuksek-basincli-bahce-yikama-makineleri-c-451862",
+        "ağaçkesme": "https://www.hepsiburada.com/agac-kesme-makineleri-c-34000109"
+    },
+    "Bahçe Mobilyası": {
+        "bahçemobilyası": "https://www.hepsiburada.com/bahce-mobilyalari-c-34001194",
+        "salıncak": "https://www.hepsiburada.com/bahce-salincaklari-c-34001208",
+        "hamak": "https://www.hepsiburada.com/hamaklar-c-34001207",
+        "takımmobilya": "https://www.hepsiburada.com/bahce-takim-mobilyalari-c-34001200"
+    },
+    "Mangal - Barbekü": {
+        "mangal-barbeku": "https://www.hepsiburada.com/mangallar-barbekuler-c-34001196",
+        "mangal": "https://www.hepsiburada.com/mangallar-c-34001281",
+        "mangalaksesuarları": "https://www.hepsiburada.com/mangal-aksesuarlari-c-34001252",
+        "piknikseti": "https://www.hepsiburada.com/piknik-seti-c-60005580"
+    },
+    "Haşere Kovucu": {
+        "haşerekovucu": "https://www.hepsiburada.com/hasere-fare-kovucular-c-60001734"
+    },
+    "Elektrikli Alet / El Aletleri": {
+        "elektriklialetelaletleri": "https://www.hepsiburada.com/elektrikli-aletler-aksesuarlar-c-13003081",
+        "elaletleri": "https://www.hepsiburada.com/el-aletleri-c-13003082",
+        "olçumcihazları": "https://www.hepsiburada.com/olcum-cihazlari-c-13003083",
+        "takımçantası": "https://www.hepsiburada.com/takim-cantalari-avadanliklar-c-60000385",
+        "jenerator": "https://www.hepsiburada.com/jeneratorler-c-13003121",
+        "akuluvidalama": "https://www.hepsiburada.com/akulu-vidalama-aletleri-c-13003091",
+        "matkaplar": "https://www.hepsiburada.com/matkaplar-c-13003095",
+        "i̇şguvenlikurunleri": "https://www.hepsiburada.com/is-guvenlik-urunleri-c-13003349",
+        "merdivenler": "https://www.hepsiburada.com/merdivenler-c-13003350",
+        "kilitler": "https://www.hepsiburada.com/yapi-guvenlik-kilitleri-c-13003358",
+        "diafon": "https://www.hepsiburada.com/diafon-sistemleri-c-60005213",
+        "banyo": "https://www.hepsiburada.com/banyolar-c-455418",
+        "duşsistemleri": "https://www.hepsiburada.com/dus-sistemleri-c-18021934",
+        "duşakabin": "https://www.hepsiburada.com/dusakabinler-c-18021979",
+        "banyomobilya": "https://www.hepsiburada.com/banyo-mobilyalari-c-457065",
+        "bataryamusluk": "https://www.hepsiburada.com/batarya-musluklari-c-18021927",
+        "boyalaryapımalzemeleri": "https://www.hepsiburada.com/boyalar-boya-aksesuarlari-c-60001216",
+        "yalıtımmalzemeleri": "https://www.hepsiburada.com/yalitim-malzemeleri-c-60005248",
+        "seramikveyerdoşemeleri": "https://www.hepsiburada.com/seramikler-yer-dosemeleri-c-13003325"
+    },
+    "Biberon & Emzik & Aksesuar": {
+        "biberonemzikaksesuar": "https://www.hepsiburada.com/bebek-beslenme-gerecleri-c-301161",
+        "bebekmaması": "https://www.hepsiburada.com/bebek-mamalari-c-301163",
+        "mamasandalyesi": "https://www.hepsiburada.com/mama-sandalyeleri-c-301132",
+        "bebekbeşikleri": "https://www.hepsiburada.com/bebek-besikleri-c-60002070",
+        "anakucağıveotokoltuğu": "https://www.hepsiburada.com/ana-kucagi-oto-koltuklari-c-305661",
+        "anakucağı": "https://www.hepsiburada.com/ana-kucaklari-c-23021015",
+        "otokoltuğu": "https://www.hepsiburada.com/oto-koltuklari-c-23021016",
+        "portbebevekanguru": "https://www.hepsiburada.com/portbebe-c-302476",
+        "bebekarabasıpuset": "https://www.hepsiburada.com/bebek-arabasi-pusetleri-c-305668",
+        "bebekarabası": "https://www.hepsiburada.com/bebek-arabalari-c-60002064",
+        "bastonpuset": "https://www.hepsiburada.com/baston-pusetler-c-60002065",
+        "bebekçocukodası": "https://www.hepsiburada.com/bebek-cocuk-odalari-c-301127",
+        "goğuspompası": "https://www.hepsiburada.com/gogus-pompalari-c-301138",
+        "buharmakineleri": "https://www.hepsiburada.com/buhar-makineleri-c-303171",
+        "goğuspedivekorucuyu": "https://www.hepsiburada.com/gogus-pedleri-koruyucular-c-301140",
+        "emzirmeaksesuarları": "https://www.hepsiburada.com/emzirme-aksesuarlari-c-310529"
+    },
+    "Bebek Bezi ve Mendiller": {
+        "bebekbezivemendiller": "https://www.hepsiburada.comNone",
+        "islakmendil": "https://www.hepsiburada.com/islak-mendiller-c-301175",
+        "bebekbezialtaçma": "https://www.hepsiburada.com/bebek-bezi-c-60001048",
+        "bakımkozmetikbanyo": "https://www.hepsiburada.comNone",
+        "bebekbanyovetuvalet": "https://www.hepsiburada.com/bebek-banyo-tuvaletleri-c-301157",
+        "bakımçantası": "https://www.hepsiburada.com/bebek-bakim-cantalari-c-301143",
+        "bebekguvenlik": "https://www.hepsiburada.com/bebek-guvenlik-malzemeleri-c-301128",
+        "koruyucuvekilit": "https://www.hepsiburada.com/koruyucu-kilitler-c-60002084",
+        "telsiz|kamera|dedektor": "https://www.hepsiburada.com/bebek-telsiz-kamera-dedektorler-c-60002087",
+        "oyunoyuncak": "https://www.hepsiburada.com/oyuncaklar-c-23031884",
+        "bebekoyuncakları": "https://www.hepsiburada.com/bebek-oyuncaklari-c-303251",
+        "oyunsetleri": "https://www.hepsiburada.com/oyun-setleri-c-23022181"
+    },
+    "Bebek Hediyelik": {
+        "bebekhediyelik": "https://www.hepsiburada.com/bebek-hediyelikleri-c-305641",
+        "hediyesepeti": "https://www.hepsiburada.com/bebek-hediyeleri-c-301189",
+        "i̇smeozelhediyelik": "https://www.hepsiburada.com/isme-ozel-bebek-hediyelikleri-c-23012962",
+        "resimlikveanıdefteri": "https://www.hepsiburada.com/bebek-resimlik-ani-defterleri-c-301193",
+        "hamilegiyim": "https://www.hepsiburada.com/hamile-giyim-c-23020381",
+        "hamilekıyafetleri": "https://www.hepsiburada.com/hamile-kiyafetleri-c-309404",
+        "hamilei̇çgiyim": "https://www.hepsiburada.com/hamile-ic-giyim-urunleri-c-308085",
+        "tulum": "https://www.hepsiburada.com/bebek-tulumlari-c-60000964",
+        "yazbahçeoyuncakları": "https://www.hepsiburada.comNone",
+        "akuluaraçlar": "https://www.hepsiburada.com/akulu-pedalli-araclar-c-306860",
+        "bisikletler": "https://www.hepsiburada.com/bebek-cocuk-bisikletleri-scooterlari-c-295869",
+        "bahçeoyuncakları": "https://www.hepsiburada.com/bahce-oyuncaklari-c-10350",
+        "deniz-plajmalzemeleri": "https://www.hepsiburada.com/deniz-plaj-malzemeleri-c-302243"
+    },
+    "Spor Ürünleri": {
+        "sporurunleri": "https://www.hepsiburada.com/spor-fitness-urunleri-c-2147483635",
+        "koşubandı": "https://www.hepsiburada.com/kosu-bantlari-c-19249",
+        "kondisyonbisikleti": "https://www.hepsiburada.com/kondisyon-bisikletleri-c-407474",
+        "sporayakkabıları": "https://www.hepsiburada.com/spor-ayakkabilar-c-384551",
+        "sporgiyimaksesuar": "https://www.hepsiburada.com/spor-malzemeleri-kiyafetleri-c-369685",
+        "vucutgeliştirme": "https://www.hepsiburada.com/vucut-gelistirme-aletleri-c-60004761",
+        "sporcubesinleri": "https://www.hepsiburada.com/sporcu-besinleri-c-354020",
+        "bisikletleratv": "https://www.hepsiburada.com/bisikletler-c-27026003",
+        "paten,kaykayscooter": "https://www.hepsiburada.com/scooter-patenler-kaykaylar-c-19050",
+        "taraftarurunleri": "https://www.hepsiburada.com/taraftar-urunleri-c-27007679",
+        "pilatesyoga": "https://www.hepsiburada.com/pilates-malzemeleri-c-367867"
+    },
+    "Koşu Bandı": {
+        "koşubandı": "https://www.hepsiburada.com/kosu-bantlari-c-19249"
+    },
+    "Kondisyon Bisikleti": {
+        "kondisyonbisikleti": "https://www.hepsiburada.com/kondisyon-bisikletleri-c-407474"
+    },
+    "Spor Ayakkabıları": {
+        "sporayakkabıları": "https://www.hepsiburada.com/spor-ayakkabilar-c-384551"
+    },
+    "Spor Giyim & Aksesuar": {
+        "sporgiyimaksesuar": "https://www.hepsiburada.com/spor-malzemeleri-kiyafetleri-c-369685"
+    },
+    "Vücut Geliştirme": {
+        "vucutgeliştirme": "https://www.hepsiburada.com/vucut-gelistirme-aletleri-c-60004761"
+    },
+    "Sporcu Besinleri": {
+        "sporcubesinleri": "https://www.hepsiburada.com/sporcu-besinleri-c-354020"
+    },
+    "Bisikletler & ATV": {
+        "bisikletleratv": "https://www.hepsiburada.com/bisikletler-c-27026003"
+    },
+    "Paten, Kaykay & Scooter": {
+        "paten,kaykayscooter": "https://www.hepsiburada.com/scooter-patenler-kaykaylar-c-19050"
+    },
+    "Taraftar Ürünleri": {
+        "taraftarurunleri": "https://www.hepsiburada.com/taraftar-urunleri-c-27007679"
+    },
+    "Pilates & Yoga": {
+        "pilatesyoga": "https://www.hepsiburada.com/pilates-malzemeleri-c-367867"
+    },
+    "Futbol": {
+        "futbol": "https://www.hepsiburada.com/futbol-malzemeleri-c-19001?siralama=coksatan"
+    },
+    "Basketbol": {
+        "basketbol": "https://www.hepsiburada.com/basketbol-urunleri-c-19002"
+    },
+    "Voleybol": {
+        "voleybol": "https://www.hepsiburada.com/voleybol-urunleri-c-19004"
+    },
+    "Boks": {
+        "boks": "https://www.hepsiburada.com/boks-urunleri-c-370052"
+    },
+    "Masa Tenisi": {
+        "masatenisi": "https://www.hepsiburada.com/masa-tenisi-c-19006"
+    },
+    "Badminton": {
+        "badminton": "https://www.hepsiburada.com/badminton-urunleri-c-19032"
+    },
+    "Yüzme": {
+        "yuzme": "https://www.hepsiburada.com/yuzme-urunleri-c-19007"
+    },
+    "Uzakdoğu Sporları": {
+        "uzakdoğusporları": "https://www.hepsiburada.com/uzakdogu-sporlari-c-19053"
+    },
+    "Kayak & Snowboard": {
+        "kayaksnowboard": "https://www.hepsiburada.com/kayak-snowboard-urunleri-c-27019227"
+    },
+    "Outdoor & Yaşam": {
+        "outdooryaşam": "https://www.hepsiburada.com/outdoor-urunleri-c-2147483604",
+        "outdoorçantalar": "https://www.hepsiburada.com/outdoor-cantalar-c-352914",
+        "aksiyonkameralar": "https://www.hepsiburada.com/aksiyon-kameralari-c-22018092",
+        "şişmeyataklar": "https://www.hepsiburada.com/sisme-yataklar-c-367176",
+        "çadırlar": "https://www.hepsiburada.com/cadirlar-c-19102",
+        "outdoorgiyim": "https://www.hepsiburada.com/outdoor-giyim-ayakkabilar-c-22006250",
+        "outdoorayakkabı": "https://www.hepsiburada.com/outdoor-ayakkabilar-c-22003663",
+        "balıkçılıkmalzemeleri": "https://www.hepsiburada.com/kara-balik-av-malzemeleri-c-22003834",
+        "kampmalzemeleri": "https://www.hepsiburada.com/kamp-kampcilik-malzemeleri-c-1302431",
+        "termosmuglar": "https://www.hepsiburada.com/kamp-mutfak-urunleri-c-19100"
+    },
+    "Outdoor Çantalar": {
+        "outdoorçantalar": "https://www.hepsiburada.com/outdoor-cantalar-c-352914"
+    },
+    "Aksiyon Kameralar": {
+        "aksiyonkameralar": "https://www.hepsiburada.com/aksiyon-kameralari-c-22018092"
+    },
+    "Şişme Yataklar": {
+        "şişmeyataklar": "https://www.hepsiburada.com/sisme-yataklar-c-367176"
+    },
+    "Çadırlar": {
+        "çadırlar": "https://www.hepsiburada.com/cadirlar-c-19102"
+    },
+    "Outdoor Giyim": {
+        "outdoorgiyim": "https://www.hepsiburada.com/outdoor-giyim-ayakkabilar-c-22006250"
+    },
+    "Outdoor Ayakkabı": {
+        "outdoorayakkabı": "https://www.hepsiburada.com/outdoor-ayakkabilar-c-22003663"
+    },
+    "Balıkçılık Malzemeleri": {
+        "balıkçılıkmalzemeleri": "https://www.hepsiburada.com/kara-balik-av-malzemeleri-c-22003834"
+    },
+    "Kamp Malzemeleri": {
+        "kampmalzemeleri": "https://www.hepsiburada.com/kamp-kampcilik-malzemeleri-c-1302431"
+    },
+    "Termos & Muglar": {
+        "termosmuglar": "https://www.hepsiburada.com/kamp-mutfak-urunleri-c-19100"
+    },
+    "Parfüm & Deodorant": {
+        "parfumdeodorant": "https://www.hepsiburada.com/parfumler-c-341406",
+        "erkek": "https://www.hepsiburada.com/erkek-parfumler-c-32010683",
+        "kadın": "https://www.hepsiburada.com/kadin-parfumler-c-32010684",
+        "ciltvucuturunleri": "https://www.hepsiburada.com/cilt-bakim-urunleri-c-32000005",
+        "gozbakımı": "https://www.hepsiburada.com/goz-bakim-urunleri-c-32010886",
+        "dudakbakımı": "https://www.hepsiburada.com/dudak-bakim-urunleri-c-32010887",
+        "makyaj": "https://www.hepsiburada.com/makyaj-urunleri-c-341425",
+        "makyajfırçaveaksesuarlar": "https://www.hepsiburada.com/makyaj-firca-aksesuarlar-c-32001791",
+        "yuz": "https://www.hepsiburada.com/yuz-makyaj-urunleri-c-32010964",
+        "saçbakımurunleri": "https://www.hepsiburada.com/sac-bakim-urunleri-c-26012111",
+        "saçşekillendirmecihazları": "https://www.hepsiburada.com/sac-sekillendirme-cihazlari-c-26012129",
+        "saçkurutmamakineleri": "https://www.hepsiburada.com/sac-kurutma-makineleri-c-26012128",
+        "saçmaskeleri,bakımkrem,losyonvespreyleri": "https://www.hepsiburada.com/sac-maskeleribakim-kremlosyon-spreyleri-c-26012285",
+        "şampuanlar": "https://www.hepsiburada.com/sampuanlar-c-26012282"
+    },
+    "Erkek Bakım Ürünleri": {
+        "erkekbakımurunleri": "https://www.hepsiburada.com/erkek-tiras-urunleri-c-26012116",
+        "tıraşbıçaklarıveyedekleri": "https://www.hepsiburada.com/tiras-bicaklari-yedekleri-c-26012157",
+        "saçsakalkesme,tuytemizlememakineleri": "https://www.hepsiburada.com/sac-sakal-kesme-tuy-temizleme-makineleri-c-26012161",
+        "tıraşmakineleri": "https://www.hepsiburada.com/tiras-makineleri-c-26012156",
+        "kadınbakımurunleri": "https://www.hepsiburada.com/kadin-bakim-urunleri-c-26012115",
+        "sirağda": "https://www.hepsiburada.com/sir-agda-c-26012148",
+        "epilatorler": "https://www.hepsiburada.com/epilatorler-c-26012145",
+        "hijyenikpedler": "https://www.hepsiburada.com/hijyenik-pedler-c-80296002",
+        "gunlukpedler": "https://www.hepsiburada.com/gunluk-ped-c-80365085",
+        "sağlıkmedikal": "https://www.hepsiburada.com/saglik-kisisel-bakim-urunleri-c-2147483633",
+        "cinselsağlıkveaileplanlaması": "https://www.hepsiburada.com/cinsel-saglik-aile-planlamasi-urunleri-c-26012178",
+        "ortopediurunleri": "https://www.hepsiburada.com/ortopedi-urunleri-c-26012217",
+        "medikalurunler": "https://www.hepsiburada.com/medikal-urunler-c-339715"
+    },
+    "Ağız Bakım Ürünleri": {
+        "ağızbakımurunleri": "https://www.hepsiburada.com/agiz-bakim-urunleri-c-26012110",
+        "dişfırçası": "https://www.hepsiburada.com/dis-fircalari-c-26012117",
+        "dişparlatıcısı": "https://www.hepsiburada.com/dis-parlaticilar-beyazlatma-sistemleri-c-26012120",
+        "dişmacunuvemacunsıkma": "https://www.hepsiburada.com/dis-macunlari-macun-sikma-makineleri-c-26012118",
+        "ağızgargarası": "https://www.hepsiburada.com/agiz-gargaralari-c-26012121",
+        "duşjeli": "https://www.hepsiburada.com/dus-jelleri-c-26012356",
+        "sabun": "https://www.hepsiburada.com/dus-banyo-sabunlari-c-26012355",
+        "antibakteriyelsabun": "https://www.hepsiburada.com/antibakteriyel-sabunlar-c-60003251",
+        "elayakvetırnakbakımı": "https://www.hepsiburada.com/el-kremleri-bakim-urunleri-c-32010919",
+        "elkremlerivebakımurunleri": "https://www.hepsiburada.com/el-kremleri-bakim-urunleri-c-32010919",
+        "bakımcihazları": "https://www.hepsiburada.com/ayak-bakim-cihazlari-c-60004074",
+        "koruyucuurunler": "https://www.hepsiburada.com/ayak-koruyucu-urunler-c-60004073",
+        "manikur-pedikur": "https://www.hepsiburada.com/manikur-pedikur-malzemeleri-c-26012361",
+        "guneşkremvelosyonları": "https://www.hepsiburada.com/gunes-krem-losyonlari-c-32010921"
+    },
+    "Tuvalet Kağıdı": {
+        "tuvaletkağıdı": "https://www.hepsiburada.com/tuvalet-kagitlari-c-28001552",
+        "kağıthavlu": "https://www.hepsiburada.com/kagit-havlular-c-28001549",
+        "bebekbezlerialtaçma": "https://www.hepsiburada.com/bebek-bezi-c-60001048",
+        "deterjantemizlikurunleri": "https://www.hepsiburada.com/deterjan-temizlik-urunleri-c-28001525",
+        "haşereolduruculer": "https://www.hepsiburada.com/hasere-olduruculer-c-60001269",
+        "gıdaurunleri": "https://www.hepsiburada.com/gida-urunleri-c-28001469",
+        "kahvaltılıkurunler": "https://www.hepsiburada.com/kahvaltilik-urunler-c-28001474",
+        "kurugıdaurunleri": "https://www.hepsiburada.com/kuru-gida-urunleri-c-28001470"
+    },
+    "Çaylar": {
+        "çaylar": "https://www.hepsiburada.com/caylar-c-60001346",
+        "kahve": "https://www.hepsiburada.com/kahveler-c-28001486",
+        "odaparfumlerikokular": "https://www.hepsiburada.com/oda-kokulari-koku-gidericiler-c-28003028",
+        "çoptorbası": "https://www.hepsiburada.com/cop-torbalari-c-60002316",
+        "buzdolabıpoşeti": "https://www.hepsiburada.com/buzdolabi-posetleri-c-60001208",
+        "streçfilm": "https://www.hepsiburada.com/strec-filmler-c-60001207"
+    },
+    "Petshop": {
+        "petshop": "https://www.hepsiburada.com/pet-shop-c-2147483616",
+        "kopek": "https://www.hepsiburada.com/kopekler-c-560000",
+        "kopekmamaları": "https://www.hepsiburada.com/kopek-mamalari-c-560001",
+        "kopektasmaları": "https://www.hepsiburada.com/kopek-tasmalari-c-560184",
+        "kopekmamakapları": "https://www.hepsiburada.com/kopek-mama-su-kaplari-c-24001769",
+        "kedi": "https://www.hepsiburada.com/kediler-c-560074",
+        "kedimamaları": "https://www.hepsiburada.com/kedi-mamalari-c-560118",
+        "kedikumları": "https://www.hepsiburada.com/kedi-kumlari-c-561355",
+        "kedituvaletkabı": "https://www.hepsiburada.com/kedi-tuvalet-kabi-aksesuarlari-c-560251",
+        "tırmalamaoyunevleri": "https://www.hepsiburada.com/kedi-tirmalama-urunleri-oyun-evleri-c-561673",
+        "balık": "https://www.hepsiburada.com/baliklar-c-24001725",
+        "balıkyemleri": "https://www.hepsiburada.com/balik-yemleri-c-24001726",
+        "akvaryum": "https://www.hepsiburada.com/akvaryumlar-c-60000415",
+        "akvaryummalzemeleri": "https://www.hepsiburada.com/akvaryum-malzemeleri-c-60000428",
+        "kuş": "https://www.hepsiburada.com/kuslar-c-560338",
+        "kuşyemleri": "https://www.hepsiburada.com/kus-yemleri-krakerler-profesyonel-mamalar-c-560885",
+        "kuşkafesleri": "https://www.hepsiburada.com/kus-kafesler-tasima-kaplari-uretici-kafesleri-c-24001704"
+    },
+    "Köpek": {
+        "kopek": "https://www.hepsiburada.com/kopekler-c-560000",
+        "kopekmamaları": "https://www.hepsiburada.com/kopek-mamalari-c-560001",
+        "kopektasmaları": "https://www.hepsiburada.com/kopek-tasmalari-c-560184",
+        "kopekmamakapları": "https://www.hepsiburada.com/kopek-mama-su-kaplari-c-24001769"
+    },
+    "Kedi": {
+        "kedi": "https://www.hepsiburada.com/kediler-c-560074",
+        "kedimamaları": "https://www.hepsiburada.com/kedi-mamalari-c-560118",
+        "kedikumları": "https://www.hepsiburada.com/kedi-kumlari-c-561355",
+        "kedituvaletkabı": "https://www.hepsiburada.com/kedi-tuvalet-kabi-aksesuarlari-c-560251",
+        "tırmalamaoyunevleri": "https://www.hepsiburada.com/kedi-tirmalama-urunleri-oyun-evleri-c-561673"
+    },
+    "Balık": {
+        "balık": "https://www.hepsiburada.com/baliklar-c-24001725",
+        "balıkyemleri": "https://www.hepsiburada.com/balik-yemleri-c-24001726",
+        "akvaryum": "https://www.hepsiburada.com/akvaryumlar-c-60000415",
+        "akvaryummalzemeleri": "https://www.hepsiburada.com/akvaryum-malzemeleri-c-60000428"
+    },
+    "Kuş": {
+        "kuş": "https://www.hepsiburada.com/kuslar-c-560338",
+        "kuşyemleri": "https://www.hepsiburada.com/kus-yemleri-krakerler-profesyonel-mamalar-c-560885",
+        "kuşkafesleri": "https://www.hepsiburada.com/kus-kafesler-tasima-kaplari-uretici-kafesleri-c-24001704"
+    },
+    "Kitap & Dergi": {
+        "kitapdergi": "https://www.hepsiburada.com/kitaplar-c-2147483645",
+        "roman": "https://www.hepsiburada.com/roman-kitaplari-c-1501702",
+        "çizgiroman": "https://www.hepsiburada.com/cizgi-roman-kitaplari-c-211822",
+        "dersvesınavkitapları": "https://www.hepsiburada.com/ders-sinav-kitaplari-c-213021",
+        "yabancıdilkitapları": "https://www.hepsiburada.com/yabanci-dil-kitaplari-c-214049",
+        "çocuk": "https://www.hepsiburada.com/cocuk-kitaplari-c-9914",
+        "okuloncesi": "https://www.hepsiburada.com/okul-oncesi-egitici-ogretici-kitaplar-c-9932",
+        "masal": "https://www.hepsiburada.com/cocuklar-icin-masallar-c-9928",
+        "boyama": "https://www.hepsiburada.com/cocuklar-icin-boyama-kitaplari-c-9980",
+        "dergi": "https://www.hepsiburada.com/dergiler-c-10004",
+        "e-kitap": "https://www.hepsiburada.com/e-kitaplar-c-1502555"
+    },
+    "Roman": {
+        "roman": "https://www.hepsiburada.com/roman-kitaplari-c-1501702",
+        "çizgiroman": "https://www.hepsiburada.com/cizgi-roman-kitaplari-c-211822"
+    },
+    "Ders ve Sınav Kitapları": {
+        "dersvesınavkitapları": "https://www.hepsiburada.com/ders-sinav-kitaplari-c-213021",
+        "yabancıdilkitapları": "https://www.hepsiburada.com/yabanci-dil-kitaplari-c-214049"
+    },
+    "Çocuk": {
+        "çocuk": "https://www.hepsiburada.com/cocuk-kitaplari-c-9914",
+        "okuloncesi": "https://www.hepsiburada.com/okul-oncesi-egitici-ogretici-kitaplar-c-9932",
+        "masal": "https://www.hepsiburada.com/cocuklar-icin-masallar-c-9928",
+        "boyama": "https://www.hepsiburada.com/cocuklar-icin-boyama-kitaplari-c-9980"
+    },
+    "Müzik Enstrümanları ve Ekipmanları": {
+        "muzikenstrumanlarıveekipmanları": "https://www.hepsiburada.com/muzik-c-2147483641",
+        "gitarlar": "https://www.hepsiburada.com/gitarlar-c-19018196",
+        "orglar": "https://www.hepsiburada.com/orglar-c-19018195",
+        "piyano": "https://www.hepsiburada.com/piyanolar-c-402326",
+        "bateriler": "https://www.hepsiburada.com/bateriler-c-411206",
+        "telliçalgılar": "https://www.hepsiburada.com/telli-calgilar-c-60001365",
+        "nefesliçalgılar": "https://www.hepsiburada.com/nefesli-calgilar-c-411209",
+        "vurmalıçalgılar": "https://www.hepsiburada.com/vurmali-calgilar-c-400250",
+        "amfi": "https://www.hepsiburada.com/muzik-amfileri-c-403911",
+        "mikrofonlar": "https://www.hepsiburada.com/mikrofonlar-c-405134",
+        "pikap": "https://www.hepsiburada.com/pikaplar-c-406932",
+        "akordiyonlar": "https://www.hepsiburada.com/akordiyonlar-c-408010",
+        "hobioyun": "https://www.hepsiburada.com/hobi-eglence-urunleri-c-2147483605",
+        "uzaktankumandalıaraçlar": "https://www.hepsiburada.com/uzaktan-kumandali-arabalar-c-14001244",
+        "puzzlelar": "https://www.hepsiburada.com/puzzle-yapbozlar-c-1201902",
+        "oyuntakımları": "https://www.hepsiburada.com/oyun-takimlari-c-1201472",
+        "oyunoyunkonsolları": "https://www.hepsiburada.com/oyunlar-oyun-konsollari-c-2147483602",
+        "maketler": "https://www.hepsiburada.com/maketler-c-60001092"
+    },
+    "Film": {
+        "film": "https://www.hepsiburada.com/filmler-c-2147483640",
+        "poster": "https://www.hepsiburada.com/poster-c-10796",
+        "albumler": "https://www.hepsiburada.com/muzik-albumleri-c-60000822"
+    }
+}

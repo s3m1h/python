@@ -36,14 +36,37 @@ URL = {
     'bebek_arabalari':'https://www.hepsiburada.com/bebek-arabalari-c-60002064',
     'bebek_bezi':'https://www.hepsiburada.com/bebek-bezi-c-60001048',
 }
-###
-def kategori_linkleri():
+####################################################################################################3
+# def kategori_linkleri():
+#     session = HTMLSession()
+#     r = session.get('https://www.hepsiburada.com/')
+#     soup = BeautifulSoup(r.html.html,'html.parser')
+#     for i in soup.find('div',class_ = 'footer-middle-left')('section')[1]('a'):
+#         print(i.get('href'))
+def tüm_kategori_linkleri():
     session = HTMLSession()
-    r = session.get('https://www.hepsiburada.com/')
+    r = session.get('https://www.hepsiburada.com/tum-kategoriler')
     soup = BeautifulSoup(r.html.html,'html.parser')
-    for i in soup.find('div',class_ = 'footer-middle-left')('section')[1]('a'):
-        print(i.get('href'))
-###
+    a = 0
+    items = {}
+    while True:
+        try:
+            container = soup.find_all('div', class_='categories')
+            group = container[a].find_all('div',class_='group')
+            for i in group:
+                anabaslik = i.find('a')
+                if anabaslik is not None:
+                    it = {}
+                    for j in i('a'):
+                        baslik = j.text.lower().replace('&','').replace(' ','').replace('/','').replace('ö','o').replace('ü','u')
+                        link = "https://www.hepsiburada.com" + str(j.get('href'))
+                        it[baslik] = link
+                    items[anabaslik.text] = it     
+            a += 1
+        except:
+            break
+    json_save(items,'tüm_kategoriler')
+####################################################################################################3
 def hepsiburada_linkleri(key):
     session = HTMLSession()
     liste = []
@@ -84,6 +107,7 @@ def urun_iceriği(path, key):
                 isim = "None"
                 fiyat = "None"
             print("HB: ",isim," ---> ", fiyat)
+
 if __name__ =='__main__':
     ### urun kimliklerini kaydetmek için hepsiburada_linkleri() çalıştırılmalı
     # hepsiburada_linkleri('oto')
@@ -95,8 +119,8 @@ if __name__ =='__main__':
     
     ### urun içeriklerini görüntülemek için json dosyasına ihtiyaç vardır
     #urun_iceriği('oto','oto')
-    urun_iceriği('parfum','parfum')
-    
+    #urun_iceriği('parfum','parfum')
+    tüm_kategori_linkleri()
 
 
 
