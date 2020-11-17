@@ -43,7 +43,7 @@ URL = {
 #     soup = BeautifulSoup(r.html.html,'html.parser')
 #     for i in soup.find('div',class_ = 'footer-middle-left')('section')[1]('a'):
 #         print(i.get('href'))
-def tüm_kategori_linkleri():
+def tum_kategori_linkleri():
     session = HTMLSession()
     r = session.get('https://www.hepsiburada.com/tum-kategoriler')
     soup = BeautifulSoup(r.html.html,'html.parser')
@@ -61,7 +61,7 @@ def tüm_kategori_linkleri():
                         baslik = j.text.lower().replace('&','').replace(' ','').replace('/','').replace('ö','o').replace('ü','u')
                         link = "https://www.hepsiburada.com" + str(j.get('href'))
                         it[baslik] = link
-                    items[anabaslik.text] = it     
+                    items[anabaslik.text.lower().replace('.','').replace('/','')] = it     
             a += 1
         except:
             break
@@ -91,7 +91,7 @@ def hepsiburada_linkleri(key):
             break
     json_save(liste, key)
 ###
-def urun_iceriği(path, key):
+def urun_icerigi(path, key):
     session = HTMLSession()
     with open(path +'.json','r') as f:
         u_kimlikler = json.load(f)
@@ -99,14 +99,18 @@ def urun_iceriği(path, key):
             # Url linklerindeki c-60001048 kısımlarını json dosyasından gelecek kimlik ile değiştiriyoruz
             url = URL[key].replace(re.search(r'c-[0-9]{1,}',URL[key]).group(), u_kimlik)
             r = session.get(url)
-            time.sleep(2)
+            time.sleep(1.5)
             try:
                 isim = r.html.find('.product-name')[0].text
+                orgfiyat = r.html.find('#originalPrice')[0].text
                 fiyat= r.html.find('.extra-discount-price')[0].text
+                indirim = r.html.find('.discount-amount')[0].text
             except : 
                 isim = "None"
+                orgfiyat = 'None'
                 fiyat = "None"
-            print("HB: ",isim," ---> ", fiyat)
+                indirim = 'None'
+            print("HB: ",isim," ---> ", fiyat,"eski fiyatı: "+orgfiyat, indirim+" indirim")
 
 if __name__ =='__main__':
     ### urun kimliklerini kaydetmek için hepsiburada_linkleri() çalıştırılmalı
@@ -116,11 +120,13 @@ if __name__ =='__main__':
     # hepsiburada_linkleri('parfum')
     #hepsiburada_linkleri('aksesuar')
     #hepsiburada_linkleri('super_market')
+    #hepsiburada_linkleri('cep_tel')
     
     ### urun içeriklerini görüntülemek için json dosyasına ihtiyaç vardır
-    #urun_iceriği('oto','oto')
-    #urun_iceriği('parfum','parfum')
-    tüm_kategori_linkleri()
+    #urun_icerigi('oto','oto')
+    #urun_icerigi('parfum','parfum')
+    urun_icerigi('cep_tel','cep_tel')
+    #tum_kategori_linkleri()
 
 
 
