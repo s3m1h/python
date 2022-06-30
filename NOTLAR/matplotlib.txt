@@ -1,0 +1,13 @@
+				---------------	Matplotlib ------------------
+
+dataframe.plot()	# dataframi çizer,görselleştirme işlemi yapar
+plt.show()		
+plt.legend()		# labelin görünmesini sağlıyor..
+xlabel			# grafigin x eksenine label koy
+ylabel			# grafigin y eksenine label koy
+plt.scatter()		# scatter 2 columns 'u karşılaştırmak için kullanılır..
+plt.bar()		# bar şeklinde bir grafik çizer
+lineplot --> x ekseni zamansa lineplot iyidir
+scatterplot --> 2 tane columns arasında karsılastırma için iyidir.
+histogram --> bir verinin dagılımını anlamak için iyidir histogram sütun barlar oluşturur..
+

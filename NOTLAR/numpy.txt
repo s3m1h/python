@@ -1,0 +1,36 @@
+		--------- 	numpy temel komutları		------------
+	
+np.array([1,2,3,4,5,6,7,9,8,10,11,12,13,14,15]) 	# array oluşturma liste alır
+degisken.shape			# shape ile arrayın kaçakaçlık oldugunu gösterir
+degisken.reshape(3,4) 		# reshape ve (3,4) lük olarak olusturuyoruz
+degisken.resize((4,3))		# reshape ile 3e 4lük olusturdugumuz diziyi rezise ile 4e 3lük hale getirebiliriz
+
+np.zeros((2,2))			# 2,2 lik yeni bir array olusturur.. sıfırlardan olusur
+np.ones((1,2))			# içinde 1ler den olusdan bir array çift parantezlere dikkat!!!
+np.full((2,2),8)		# 2,2 lik içi 8le dolu array olusturur 2,parametre bizim belirledigimiz
+np.empty((2,3))			# 2,3 içi boş array olusturur.
+np.arange(10,50,5)		# 10 dan 50 ye kadar 5er artan bir dizi olusturur..
+np.linspace(10,50,20)		# 10 ile 50 arasında 20 tane sayi içeren dizi olusturur...
+örnek: 
+	b = np.array([[1,2,3],[4,5,6]])
+	a = np.array([[1,2,3],[4,5,6]])
+	a.dot(b.T)		# dot ile matris çarpımı yapılması için b nin transpozu alınması lazım yani a ile b 
+				aynı oldugu için satır ve sütün yerleri degistirilip carpılıyor...
+np.random.random((5,5))		# 5e 5lik random sayılar olusturur 0ile 1 arasında 	
+a.sum() 			# sum tüm sayıları toplar
+a.max()				# max yani en büyük sayiyi verir
+a.min()				# minimum degeri verir...
+a.sum(axis = 0)			# sutunları topla
+np.sqrt(a)			# karekökünü al
+np.square(a)			# karesini al
+np.array(a)			# karesini al
+
+a = np.array([1,2])
+b = a.copy()  # dersek a daki diziyi b ye kopyalamıs oluruz..
+
+
+
+
+
+
+
