@@ -2,16 +2,16 @@
 
 
 ```
-append    liste.append(item)                # listeye değer atma
+append    	liste.append(item)                		# listeye değer atma
 ```
 ```
-insert    liste.insert(indis,değer)	        # indis yerine koyma
+insert    	liste.insert(indis,değer)	        	# indis yerine koyma
 ```
 ```
-pop			liste.pop(indis)			    # listeden değer çekme indis verilmesse en sondakini alır
+pop		liste.pop(indis)			   	# listeden değer çekme indis verilmesse en sondakini alır
 ```
-```
-extend 		liste.extend(liste2)			# liste ile liste2yi birleştir
+```	
+extend 		liste.extend(liste2)				# liste ile liste2yi birleştir
 ```
 ```
 remove 		liste.remove()					# değer silme
@@ -33,13 +33,13 @@ index		liste.index()					# istenilen degerin indisini verir..
 count		liste.count()					# değerin listede kaç defa geçtiğini verir..
 ```
 ```
-copy		liste.copy()				    # listeyi kopyalar değişken ilede kopyalanır ama yapılan - değişiklik 2 değişkenide etkiler copy() ile	etkilenmez...
+copy		liste.copy()				    	# listeyi kopyalar değişken ilede kopyalanır ama yapılan - değişiklik 2 değişkenide etkiler copy() ile	etkilenmez...
 ```
 ```
 clear		liste.clear()					# listenin içini boşaltır
 ```
 ```
-del 		del liste					    # listeyi tamamen siler
+del 		del liste					# listeyi tamamen siler
 ```
 				
 ## Karakter dizisi metotları
@@ -86,7 +86,7 @@ count 		isim.count("a")					# a harfi kaçtane ise onu verir
 ```
 
 ```
-union		küme.union(yeni_küme)			# 2 kümeyi birleştirme işlemi yapar
+union		küme.union(yeni_küme)				# 2 kümeyi birleştirme işlemi yapar
 ```
 
 
